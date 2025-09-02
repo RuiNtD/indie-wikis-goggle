@@ -42,7 +42,7 @@ const header = dedent`
 ! description: Brave Goggle to prioritize indie wikis (Based on Indie Wiki Buddy ${iwbVersion})
 ! public: false
 ! author: RuiNtD
-! homepage: https://github.com/RuiNtD/indie-wiki-goggle
+! homepage: https://github.com/RuiNtD/indie-wikis-goggle
 ! avatar: #005799
 ! license: MIT
 `;

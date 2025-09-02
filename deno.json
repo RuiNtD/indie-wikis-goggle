@@ -1,0 +1,8 @@
+{
+  "imports": {
+    "@david/dax": "jsr:@david/dax@^0.43.2",
+    "dedent": "npm:dedent@^1.6.0",
+    "p-map": "npm:p-map@^7.0.3",
+    "zod": "npm:zod@^4.1.5"
+  }
+}

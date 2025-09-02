@@ -42,17 +42,19 @@ const header = dedent`
 ! description: Brave Goggle to prioritize indie wikis (Based on Indie Wiki Buddy ${iwbVersion})
 ! public: false
 ! author: RuiNtD
+! homepage: https://github.com/RuiNtD/indie-wiki-goggle
+! avatar: #005799
 ! license: MIT
 `;
 const rules = await pMap(Object.entries(langs), async ([lang, langName]) => {
   const header = `! ${langName}`;
-  const rules = (await getSites(lang)).map((site) => {
-    return [
+  const rules = (await getSites(lang)).map((site) =>
+    [
       `! ${site.destination}`,
-      `${formatBaseUrl(site.destination_base_url)},boost`,
+      formatBaseUrl(site.destination_base_url),
       ...site.origins.map((v) => `${formatBaseUrl(v.origin_base_url)},discard`),
-    ].join("\n");
-  });
+    ].join("\n")
+  );
   return `${header}\n\n${rules.join("\n\n")}`;
 });
 await $.path("indie_wikis.goggles").writeText(

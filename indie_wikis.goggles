@@ -2,148 +2,150 @@
 ! description: Brave Goggle to prioritize indie wikis (Based on Indie Wiki Buddy v3.13.2)
 ! public: false
 ! author: RuiNtD
+! homepage: https://github.com/RuiNtD/indie-wiki-goggle
+! avatar: #005799
 ! license: MIT
 
 ! [DE] German / Deutsch
 
 ! Animal Crossing Wiki
-$site=animalcrossingwiki.de,boost
+$site=animalcrossingwiki.de
 /de$site=animalcrossing.fandom.com,discard
 
 ! ARK Wiki
-/de$site=ark.wiki.gg,boost
+/de$site=ark.wiki.gg
 /de$site=ark.fandom.com,discard
 
 ! ConanWiki
-$site=conanwiki.org,boost
+$site=conanwiki.org
 $site=detektivconan.fandom.com,discard
 
 ! Gronkh-Wiki
-$site=gronkh-wiki.de,boost
+$site=gronkh-wiki.de
 /de$site=gronkh.fandom.com,discard
 
 ! Lethal Company Wiki
-$site=lethal.miraheze.org,boost
+$site=lethal.miraheze.org
 /de$site=lethal-company.fandom.com,discard
 
 ! Minecraft Wiki
-$site=de.minecraft.wiki,boost
+$site=de.minecraft.wiki
 /de$site=minecraft.fandom.com,discard
 
 ! PokéWiki
-$site=www.pokewiki.de,boost
+$site=www.pokewiki.de
 /de$site=pokemon.fandom.com,discard
 
 ! Simpsonspedia Wiki
-$site=simpsonspedia.net,boost
+$site=simpsonspedia.net
 /de$site=simpsons.fandom.com,discard
 
 ! South Park Wiki
-/de$site=southpark.wiki.gg,boost
+/de$site=southpark.wiki.gg
 /de$site=southpark.fandom.com,discard
 
 ! Star Citizen Wiki
-$site=star-citizen.wiki,boost
+$site=star-citizen.wiki
 /de$site=starcitizen.fandom.com,discard
 
 ! Stardew Valley Wiki
-$site=de.stardewvalleywiki.com,boost
+$site=de.stardewvalleywiki.com
 /de$site=stardewvalley.fandom.com,discard
 
 ! Terraria Wiki
-/de$site=terraria.wiki.gg,boost
+/de$site=terraria.wiki.gg
 /de$site=terraria.fandom.com,discard
 
 ! WikiRaider
-$site=www.wikiraider.de,boost
+$site=www.wikiraider.de
 /de$site=tombraider.fandom.com,discard
 
 ! Touhou Wiki
-$site=de.touhouwiki.net,boost
+$site=de.touhouwiki.net
 /de$site=touhou.fandom.com,discard
 
 ! Zeldapendium
-$site=www.zeldapendium.de,boost
+$site=www.zeldapendium.de
 /de$site=zelda.fandom.com,discard
 
 ! [EN] English
 
 ! 1000xRESIST Wiki
-$site=1000xresist.wiki.gg,boost
+$site=1000xresist.wiki.gg
 $site=1000xresist.fandom.com,discard
 
 ! 100% Orange Juice Wiki
-$site=orangejuice.wiki,boost
+$site=orangejuice.wiki
 $site=100orangejuice.fandom.com,discard
 $site=onehundredpercentorangejuice-archive.fandom.com,discard
 
 ! 18TRIP Wiki
-$site=wiki.18t.rip,boost
+$site=wiki.18t.rip
 $site=18trip.fandom.com,discard
 
 ! 2XKO Wiki
-$site=2xko.wiki,boost
+$site=2xko.wiki
 $site=2xko.fandom.com,discard
 
 ! 7 Days to Die Wiki
-$site=7daystodie.wiki.gg,boost
+$site=7daystodie.wiki.gg
 $site=7daystodie.fandom.com,discard
 
 ! Abiotic Factor Wiki
-$site=abioticfactor.wiki.gg,boost
+$site=abioticfactor.wiki.gg
 $site=abiotic-factor.fandom.com,discard
 
 ! Ace Combat Wiki
-$site=acecombat.wiki.gg,boost
+$site=acecombat.wiki.gg
 $site=acecombat.fandom.com,discard
 
 ! Wars Wiki
-$site=warswiki.org,boost
+$site=warswiki.org
 $site=advancewars.fandom.com,discard
 $site=advancewars.neoseeker.com,discard
 
 ! Adventure Zone Wiki
-$site=adventurezonewiki.miraheze.org,boost
+$site=adventurezonewiki.miraheze.org
 $site=theadventurezone.fandom.com,discard
 
 ! After Inc. Wiki
-$site=afterinc.wiki.gg,boost
+$site=afterinc.wiki.gg
 $site=after-inc.fandom.com,discard
 
 ! Against the Storm Wiki
-/wiki/Against_the_Storm$site=hoodedhorse.com,boost
+/wiki/Against_the_Storm$site=hoodedhorse.com
 $site=against-the-storm.fandom.com,discard
 
 ! Aground Wiki
-$site=aground.wiki.gg,boost
+$site=aground.wiki.gg
 $site=aground.fandom.com,discard
 
 ! A Hat in Time Wiki
-$site=ahatintime.wiki.gg,boost
+$site=ahatintime.wiki.gg
 $site=ahatintime.fandom.com,discard
 
 ! AIBO WIKI
-$site=aibo.miraheze.org,boost
+$site=aibo.miraheze.org
 $site=aibo.fandom.com,discard
 
 ! Akudama Drive Wiki
-$site=akudamadrive.miraheze.org,boost
+$site=akudamadrive.miraheze.org
 $site=akudamadrive.fandom.com,discard
 
 ! AlphaVer Wiki
-$site=alphaver.miraheze.org,boost
+$site=alphaver.miraheze.org
 $site=alphaver.fandom.com,discard
 
 ! Plants vs. Zombies 2: Alternate UniverZ Wiki
-$site=altverz.wiki.gg,boost
+$site=altverz.wiki.gg
 $site=altverz.fandom.com,discard
 
 ! Android Wiki
-$site=androidwiki.info,boost
+$site=androidwiki.info
 $site=android.fandom.com,discard
 
 ! Nookipedia
-$site=nookipedia.com,boost
+$site=nookipedia.com
 $site=animalcrossing.fandom.com,discard
 $site=acnl.fandom.com,discard
 $site=acnewleaf.fandom.com,discard
@@ -151,428 +153,428 @@ $site=acwikipeaia.fandom.com,discard
 $site=animalcrossing.neoseeker.com,discard
 
 ! Animal Crossing: Pocket Camp Wiki
-$site=animalcrossingpocketcamp.wiki.gg,boost
+$site=animalcrossingpocketcamp.wiki.gg
 $site=animalcrossingpocketcamp.fandom.com,discard
 
 ! Super Animal Royale Wiki
-$site=wiki.animalroyale.com,boost
+$site=wiki.animalroyale.com
 $site=animalroyale.fandom.com,discard
 
 ! Animal Well Wiki
-$site=animalwell.wiki.gg,boost
+$site=animalwell.wiki.gg
 $site=animal-well.fandom.com,discard
 
 ! Another Eden Wiki
-$site=anothereden.wiki,boost
+$site=anothereden.wiki
 $site=anothereden.fandom.com,discard
 
 ! Answered Prayers Wiki
-$site=yume.wiki,boost
+$site=yume.wiki
 $site=answeredprayers.fandom.com,discard
 
 ! Anti-Idle: The Game Wiki
-$site=aitg.miraheze.org,boost
+$site=aitg.miraheze.org
 $site=aitg.fandom.com,discard
 
 ! Summitpedia
-$site=summitpedia.miraheze.org,boost
+$site=summitpedia.miraheze.org
 $site=antonblastpedia.fandom.com,discard
 $site=antonball.fandom.com,discard
 
 ! Anvil Empires Wiki
-$site=anvilempires.wiki.gg,boost
+$site=anvilempires.wiki.gg
 $site=anvil-empires.fandom.com,discard
 
 ! Apex Legends Wiki
-$site=apexlegends.wiki.gg,boost
+$site=apexlegends.wiki.gg
 $site=apexlegends.fandom.com,discard
 $site=apex--legends-archive.fandom.com,discard
 
 ! APICO Wiki
-$site=wiki.apico.buzz,boost
+$site=wiki.apico.buzz
 $site=apico.fandom.com,discard
 
 ! ARK Wiki
-$site=ark.wiki.gg,boost
+$site=ark.wiki.gg
 $site=ark.fandom.com,discard
 $site=ark-survival-evolved-archive.fandom.com,discard
 
 ! Arknights Terra Wiki
-$site=arknights.wiki.gg,boost
+$site=arknights.wiki.gg
 $site=arknights.fandom.com,discard
 
 ! ARMS Institute
-$site=armswiki.org,boost
+$site=armswiki.org
 $site=arms.fandom.com,discard
 
 ! EXA_PICO Wiki
-$site=exapico.wiki.gg,boost
+$site=exapico.wiki.gg
 $site=artonelico.fandom.com,discard
 
 ! Ashes of Creation Wiki
-$site=ashesofcreation.wiki,boost
+$site=ashesofcreation.wiki
 $site=ashesofcreation.fandom.com,discard
 $site=ashesofcreation-archive.fandom.com,discard
 
 ! Ashes.Town Wiki
-$site=ashestown.wiki.gg,boost
+$site=ashestown.wiki.gg
 $site=ashestown.fandom.com,discard
 
 ! Assault Android Cactus Wiki
-$site=assaultandroidcactus.miraheze.org,boost
+$site=assaultandroidcactus.miraheze.org
 $site=assault-android-cactus.fandom.com,discard
 
 ! Assault Lily Wiki
-$site=assaultlily.wiki,boost
+$site=assaultlily.wiki
 $site=assaultlily.fandom.com,discard
 $site=assault-lily-anime.fandom.com,discard
 
 ! Astrea Wiki
-$site=astrea.wiki.gg,boost
+$site=astrea.wiki.gg
 $site=astrea-sso.fandom.com,discard
 
 ! Astroneer Wiki
-$site=astroneer.wiki.gg,boost
+$site=astroneer.wiki.gg
 $site=astroneer.fandom.com,discard
 
 ! Atelier Wiki
-$site=atelier.wiki.gg,boost
+$site=atelier.wiki.gg
 $site=atelier.fandom.com,discard
 
 ! ATLYSS Wiki
-$site=atlyss.wiki.gg,boost
+$site=atlyss.wiki.gg
 $site=atlyss.fandom.com,discard
 
 ! Audiovisual Identity Database
-$site=www.avid.wiki,boost
+$site=www.avid.wiki
 $site=closinglogogroup.fandom.com,discard
 
 ! Azur Lane Wiki
-$site=azurlane.koumakan.jp,boost
+$site=azurlane.koumakan.jp
 $site=blhx.fandom.com,discard
 $site=azur-lane.fandom.com,discard
 
 ! Backpack Battles Wiki
-$site=backpackbattles.wiki.gg,boost
+$site=backpackbattles.wiki.gg
 $site=backpack-battles.fandom.com,discard
 
 ! Backpack Hero Wiki
-$site=backpackhero.wiki.gg,boost
+$site=backpackhero.wiki.gg
 $site=backpack-hero.fandom.com,discard
 
 ! Bakugan Wiki
-$site=bakugan.wiki,boost
+$site=bakugan.wiki
 $site=bakugan.fandom.com,discard
 
 ! Baldur's Gate 3 Wiki
-$site=bg3.wiki,boost
+$site=bg3.wiki
 $site=baldursgate3.wiki.fextralife.com,discard
 $site=baldurs-gate-3-guide.fandom.com,discard
 
 ! BallisticNG Wiki
-$site=ballisticng.miraheze.org,boost
+$site=ballisticng.miraheze.org
 $site=ballisticng.fandom.com,discard
 
 ! Jiggywikki
-$site=banjokazooiewiki.com,boost
+$site=banjokazooiewiki.com
 $site=banjokazooie.fandom.com,discard
 $site=banjokazooie.neoseeker.com,discard
 
 ! Barotrauma Wiki
-$site=barotraumagame.com,boost
+$site=barotraumagame.com
 $site=barotrauma.fandom.com,discard
 
 ! BattleBit Wiki
-$site=battlebit.wiki.gg,boost
+$site=battlebit.wiki.gg
 $site=battlebit.fandom.com,discard
 
 ! Battle Cats Wiki
-$site=battlecats.miraheze.org,boost
+$site=battlecats.miraheze.org
 $site=battle-cats.fandom.com,discard
 
 ! Battlestar Wiki
-$site=en.battlestarwiki.org,boost
+$site=en.battlestarwiki.org
 $site=galactica.fandom.com,discard
 
 ! Bella Sara Wiki
-$site=bellasara.wiki.gg,boost
+$site=bellasara.wiki.gg
 $site=thebellasara.fandom.com,discard
 
 ! RemyWiki
-$site=remywiki.com,boost
+$site=remywiki.com
 $site=beatmania.fandom.com,discard
 $site=dancedancerevolution.fandom.com,discard
 $site=jubeat.fandom.com,discard
 $site=bemani.fandom.com,discard
 
 ! Binding Of Isaac: Rebirth Wiki
-$site=bindingofisaacrebirth.wiki.gg,boost
+$site=bindingofisaacrebirth.wiki.gg
 $site=bindingofisaacrebirth.fandom.com,discard
 
 ! Binding of Isaac Revelations Wiki
-$site=tboirevelations.wiki.gg,boost
+$site=tboirevelations.wiki.gg
 $site=tboirevelations.fandom.com,discard
 
 ! BIONICLEsector01
-$site=biosector01.com,boost
+$site=biosector01.com
 $site=bionicle.fandom.com,discard
 
 ! BitCraft Wiki
-$site=bitcraft.wiki.gg,boost
+$site=bitcraft.wiki.gg
 $site=bitcraft.fandom.com,discard
 
 ! BlazBlue Wiki
-$site=blazblue.wiki,boost
+$site=blazblue.wiki
 $site=blazblue.fandom.com,discard
 
 ! Bleed Wiki
-$site=bleed.wiki.gg,boost
+$site=bleed.wiki.gg
 $site=bleed-game.fandom.com,discard
 
 ! BlockFrontMC Wiki
-$site=blockfront.wiki.gg,boost
+$site=blockfront.wiki.gg
 $site=blockfrontmc.fandom.com,discard
 
 ! Blood Wiki
-$site=blood-wiki.org,boost
+$site=blood-wiki.org
 $site=blood-1997.fandom.com,discard
 
 ! Blue Archive Wiki
-$site=bluearchive.wiki,boost
+$site=bluearchive.wiki
 $site=bluearchive.fandom.com,discard
 
 ! Board Game Online Wiki
-$site=bgo.miraheze.org,boost
+$site=bgo.miraheze.org
 $site=boardgame-online.fandom.com,discard
 
 ! Book of Travels Wiki
-$site=bookoftravels.wiki.gg,boost
+$site=bookoftravels.wiki.gg
 $site=bookoftravels.fandom.com,discard
 
 ! BOXBOY WIKI!
-$site=boxboy.wiki,boost
+$site=boxboy.wiki
 $site=boxboy.fandom.com,discard
 
 ! Braingirl Wiki
-$site=yume.wiki,boost
+$site=yume.wiki
 $site=braingirl.fandom.com,discard
 
 ! Coppermind
-$site=coppermind.net,boost
+$site=coppermind.net
 $site=stormlightarchive.fandom.com,discard
 $site=mistborn.fandom.com,discard
 
 ! Brawlhalla Wiki
-$site=brawlhalla.wiki.gg,boost
+$site=brawlhalla.wiki.gg
 $site=brawlhalla.fandom.com,discard
 
 ! Brighter Shores Wiki
-$site=brightershoreswiki.org,boost
+$site=brightershoreswiki.org
 $site=brighter-shores.fandom.com,discard
 $site=brightershores.fandom.com,discard
 
 ! Brotato Wiki
-$site=brotato.wiki.spellsandguns.com,boost
+$site=brotato.wiki.spellsandguns.com
 $site=brotato.fandom.com,discard
 
 ! Brutal Orchestra Wiki
-$site=brutalorchestra.wiki.gg,boost
+$site=brutalorchestra.wiki.gg
 $site=hbbrutalorchestra.fandom.com,discard
 
 ! Bug Fables Wiki
-$site=bugfables.miraheze.org,boost
+$site=bugfables.miraheze.org
 $site=bugfables.fandom.com,discard
 
 ! Build-A-Bear Wiki
-$site=buildabearwiki.info,boost
+$site=buildabearwiki.info
 $site=buildabear.fandom.com,discard
 
 ! B'z Wiki
-$site=www.bzwiki.com,boost
+$site=www.bzwiki.com
 $site=bzrockcom.fandom.com,discard
 
 ! Calamity Mod Wiki
-$site=calamitymod.wiki.gg,boost
+$site=calamitymod.wiki.gg
 $site=calamitymod.fandom.com,discard
 
 ! Carrion Wiki
-$site=carrion.wiki.gg,boost
+$site=carrion.wiki.gg
 $site=carrion.fandom.com,discard
 
 ! Catacomb Wiki
-$site=catacomb.miraheze.org,boost
+$site=catacomb.miraheze.org
 $site=catacomb.fandom.com,discard
 
 ! Celeste Wiki
-$site=celeste.ink,boost
+$site=celeste.ink
 $site=celestegame.fandom.com,discard
 
 ! Cerasus Wiki
-$site=yume.wiki,boost
+$site=yume.wiki
 $site=cerasus.fandom.com,discard
 
 ! Chef RPG Wiki
-$site=chefrpg.wiki.gg,boost
+$site=chefrpg.wiki.gg
 $site=chef-rpg.fandom.com,discard
 
 ! Cherry Forest Wiki
-$site=cherryforest.wiki.gg,boost
+$site=cherryforest.wiki.gg
 $site=cherry-forest.fandom.com,discard
 
 ! Chibi-Robo! Wiki
-$site=chibi-robo.wiki,boost
+$site=chibi-robo.wiki
 $site=chibi-robo.fandom.com,discard
 
 ! Chicory: A Colorful Tale Wiki
-$site=wiki.chicory.pizza,boost
+$site=wiki.chicory.pizza
 $site=chicory-a-colorful-tale.fandom.com,discard
 
 ! Chip's Challenge Wiki
-$site=wiki.bitbusters.club,boost
+$site=wiki.bitbusters.club
 $site=chipschallenge.fandom.com,discard
 
 ! Chrono Wiki
-$site=www.chronowiki.org,boost
+$site=www.chronowiki.org
 $site=chrono.fandom.com,discard
 $site=chrono.neoseeker.com,discard
 
 ! Cities: Skylines Wiki
-$site=skylines.paradoxwikis.com,boost
+$site=skylines.paradoxwikis.com
 $site=skylines.fandom.com,discard
 
 ! Cities: Skylines 2 Wiki
-$site=cs2.paradoxwikis.com,boost
+$site=cs2.paradoxwikis.com
 $site=cities-skylines-ii.fandom.com,discard
 
 ! Paragon Wiki Archive
-$site=archive.paragonwiki.com,boost
+$site=archive.paragonwiki.com
 $site=cityofheroes.fandom.com,discard
 
 ! Cobalt Core Wiki
-$site=cobaltcore.wiki.gg,boost
+$site=cobaltcore.wiki.gg
 $site=cobalt-core.fandom.com,discard
 
 ! Commander Keen Wiki
-$site=keenwiki.shikadi.net,boost
+$site=keenwiki.shikadi.net
 $site=commander-keen.fandom.com,discard
 
 ! C64-Wiki
-$site=www.c64-wiki.com,boost
+$site=www.c64-wiki.com
 $site=commodore64.fandom.com,discard
 
 ! Content Warning Wiki
-$site=contentwarning.wiki.gg,boost
+$site=contentwarning.wiki.gg
 $site=content-warning.fandom.com,discard
 $site=content-warning-landfall.fandom.com,discard
 
 ! LifeWiki
-$site=conwaylife.com,boost
+$site=conwaylife.com
 $site=conways-game-of-life.fandom.com,discard
 
 ! Cookie Clicker Wiki
-$site=cookieclicker.wiki.gg,boost
+$site=cookieclicker.wiki.gg
 $site=cookieclicker.fandom.com,discard
 
 ! Coromon Wiki
-$site=coromon.wiki.gg,boost
+$site=coromon.wiki.gg
 $site=coromon.fandom.com,discard
 
 ! Cosmic Reach Wiki
-$site=cosmicreach.wiki.gg,boost
+$site=cosmicreach.wiki.gg
 $site=cosmicreach.fandom.com,discard
 
 ! Cosmoteer Wiki
-$site=cosmoteer.wiki.gg,boost
+$site=cosmoteer.wiki.gg
 $site=cosmoteer.fandom.com,discard
 
 ! Crab Champions Wiki
-$site=crabchampions.wiki.gg,boost
+$site=crabchampions.wiki.gg
 $site=crabchampions.fandom.com,discard
 
 ! Creatures Wiki
-$site=creatures.wiki,boost
+$site=creatures.wiki
 $site=creatures.fandom.com,discard
 
 ! Critical Role Wiki
-$site=criticalrole.miraheze.org,boost
+$site=criticalrole.miraheze.org
 $site=criticalrole.fandom.com,discard
 
 ! Destiny 2 Minecraft Edition Wiki
-$site=d2mc.wiki.gg,boost
+$site=d2mc.wiki.gg
 $site=d2mc.fandom.com,discard
 
 ! Daria Wiki
-$site=dariawiki.org,boost
+$site=dariawiki.org
 $site=daria.fandom.com,discard
 
 ! DarkGarden Studios Wiki
-$site=darkgardenstudios.wiki.gg,boost
+$site=darkgardenstudios.wiki.gg
 $site=darkage-bizarre.fandom.com,discard
 
 ! Dark and Darker Wiki
-$site=darkanddarker.wiki.spellsandguns.com,boost
+$site=darkanddarker.wiki.spellsandguns.com
 $site=dark-and-darker.fandom.com,discard
 
 ! Darkest Dungeon Wiki
-$site=darkestdungeon.wiki.gg,boost
+$site=darkestdungeon.wiki.gg
 $site=darkestdungeon.fandom.com,discard
 $site=darkestdungeon2.wiki.fextralife.com,discard
 
 ! Dead by Daylight Wiki
-$site=deadbydaylight.wiki.gg,boost
+$site=deadbydaylight.wiki.gg
 $site=deadbydaylight.fandom.com,discard
 
 ! Dead Cells Wiki
-$site=deadcells.wiki.gg,boost
+$site=deadcells.wiki.gg
 $site=deadcells.fandom.com,discard
 
 ! Dead Estate Wiki
-$site=deadestate.wiki.gg,boost
+$site=deadestate.wiki.gg
 $site=deadestate.fandom.com,discard
 
 ! Deadlock Wiki
-$site=deadlock.wiki,boost
+$site=deadlock.wiki
 $site=playdeadlock.fandom.com,discard
 
 ! Mau5pedia
-$site=deadmau5.miraheze.org,boost
+$site=deadmau5.miraheze.org
 $site=deadmau5.fandom.com,discard
 
 ! DeadPoly Wiki
-$site=deadpoly.wiki,boost
+$site=deadpoly.wiki
 $site=deadpoly.fandom.com,discard
 $site=deadpolygame.fandom.com,discard
 
 ! DEATH BATTLE! Wiki
-$site=deathbattle.miraheze.org,boost
+$site=deathbattle.miraheze.org
 $site=deathbattle.fandom.com,discard
 
 ! Deep Rock Galactic Wiki
-$site=deeprockgalactic.wiki.gg,boost
+$site=deeprockgalactic.wiki.gg
 $site=deeprockgalactic.fandom.com,discard
 
 ! Destinypedia
-$site=www.destinypedia.com,boost
+$site=www.destinypedia.com
 $site=destiny.fandom.com,discard
 $site=destiny.neoseeker.com,discard
 $site=destiny.wiki.fextralife.com,discard
 $site=destiny2.wiki.fextralife.com,discard
 
 ! Detective Conan Wiki
-$site=www.detectiveconanworld.com,boost
+$site=www.detectiveconanworld.com
 $site=detectiveconan.fandom.com,discard
 
 ! DFO World Wiki
-$site=wiki.dfo.world,boost
+$site=wiki.dfo.world
 $site=dfo.fandom.com,discard
 
 ! Wikimon
-$site=wikimon.net,boost
+$site=wikimon.net
 $site=digimon.fandom.com,discard
 $site=digimon.neoseeker.com,discard
 
 ! Tardis (Doctor Who) Wiki
-$site=tardis.wiki,boost
+$site=tardis.wiki
 $site=tardis.fandom.com,discard
 $site=torchwood-archive.fandom.com,discard
 $site=doctorwho.neoseeker.com,discard
@@ -584,124 +586,124 @@ $site=whoniverse.fandom.com,discard
 $site=daleksrus.fandom.com,discard
 
 ! Dogcraft Wiki
-$site=dogcraft.net,boost
+$site=dogcraft.net
 $site=dogcraft.fandom.com,discard
 
 ! Dome Keeper Wiki
-$site=domekeeper.wiki.gg,boost
+$site=domekeeper.wiki.gg
 $site=dome-keeper.fandom.com,discard
 
 ! Dominion Strategy Wiki
-$site=wiki.dominionstrategy.com,boost
+$site=wiki.dominionstrategy.com
 $site=dominioncg.fandom.com,discard
 $site=dominionstrategy.fandom.com,discard
 
 ! Don't Starve Wiki
-$site=dontstarve.wiki.gg,boost
+$site=dontstarve.wiki.gg
 $site=dontstarve.fandom.com,discard
 
 ! The Doom Wiki
-$site=doomwiki.org,boost
+$site=doomwiki.org
 $site=doom.fandom.com,discard
 $site=doom.neoseeker.com,discard
 
 ! Liquipedia Dota 2 Wiki
-/dota2$site=liquipedia.net,boost
+/dota2$site=liquipedia.net
 $site=dota2.fandom.com,discard
 
 ! DotAGE Wiki
-$site=dotage.wiki.gg,boost
+$site=dotage.wiki.gg
 $site=dotage-game.fandom.com,discard
 
 ! Dotflow Wiki
-$site=yume.wiki,boost
+$site=yume.wiki
 $site=dotflow.fandom.com,discard
 
 ! Dovedale Railway Wiki
-$site=dovedale.wiki,boost
+$site=dovedale.wiki
 $site=dovedale.fandom.com,discard
 
 ! Dragalia Lost Wiki
-$site=dragalialost.wiki,boost
+$site=dragalialost.wiki
 $site=dragalialost.fandom.com,discard
 
 ! Dragon Village Series Wiki
-$site=dragonvillageseries.wiki.gg,boost
+$site=dragonvillageseries.wiki.gg
 $site=dragon-village-series.fandom.com,discard
 
 ! Wapopedia
-$site=drawntolife.wiki,boost
+$site=drawntolife.wiki
 $site=drawntolife.fandom.com,discard
 
 ! Dreamlight Valley Wiki
-$site=dreamlightvalleywiki.com,boost
+$site=dreamlightvalleywiki.com
 $site=disneydreamlightvalley.fandom.com,discard
 $site=disney-dreamlight-valley.fandom.com,discard
 
 ! Dreamsphere Wiki
-$site=dreamsphere.miraheze.org,boost
+$site=dreamsphere.miraheze.org
 $site=dreamsphere.fandom.com,discard
 
 ! DREDGE Wiki
-$site=dredge.wiki.gg,boost
+$site=dredge.wiki.gg
 $site=dredge.fandom.com,discard
 
 ! Dungeon Defenders 2 Wiki
-$site=wiki.dungeondefenders2.com,boost
+$site=wiki.dungeondefenders2.com
 $site=dungeondefenders2.fandom.com,discard
 
 ! Dungeon Rampage Wiki
-$site=dungeonrampage.miraheze.org,boost
+$site=dungeonrampage.miraheze.org
 $site=dungeonrampage.fandom.com,discard
 
 ! Dungeons and Degenerate Gamblers Wiki
-$site=degenerategamblers.miraheze.org,boost
+$site=degenerategamblers.miraheze.org
 $site=dungeons-and-degenerate-gamblers.fandom.com,discard
 
 ! Dungeons and Dragons Wiki
-$site=dnd-wiki.org,boost
+$site=dnd-wiki.org
 $site=dungeons.fandom.com,discard
 
 ! Dwarf Fortress Wiki
-$site=dwarffortresswiki.org,boost
+$site=dwarffortresswiki.org
 $site=dwarffortress.fandom.com,discard
 
 ! Dying Light Wiki
-$site=dyinglight.wiki.gg,boost
+$site=dyinglight.wiki.gg
 $site=dyinglight.fandom.com,discard
 
 ! Dyson Sphere Program Wiki
-$site=dsp-wiki.com,boost
+$site=dsp-wiki.com
 $site=dyson-sphere-program.fandom.com,discard
 
 ! WikiBound
-$site=wikibound.info,boost
+$site=wikibound.info
 $site=earthbound.fandom.com,discard
 $site=mother.neoseeker.com,discard
 
 ! East Scarp Wiki
-$site=eastscarp.wiki.gg,boost
+$site=eastscarp.wiki.gg
 $site=eastscarp.fandom.com,discard
 
 ! Eastward Wiki
-$site=eastwardwiki.com,boost
+$site=eastwardwiki.com
 $site=eastward.fandom.com,discard
 
 ! Echoes of the Plum Grove Wiki
-$site=echoesoftheplumgrove.wiki.gg,boost
+$site=echoesoftheplumgrove.wiki.gg
 $site=echoes-of-the-plum-grove.fandom.com,discard
 
 ! Eiyuden Chronicle Wiki
-$site=eiyuden.wiki.gg,boost
+$site=eiyuden.wiki.gg
 $site=eiyuden-chronicle-hundred-heroes.fandom.com,discard
 
 ! Eldenpedia
-$site=eldenring.wiki.gg,boost
+$site=eldenring.wiki.gg
 $site=eldenring.fandom.com,discard
 $site=eldenring.wiki.fextralife.com,discard
 
 ! Unofficial Elder Scrolls Pages
-$site=en.uesp.net,boost
+$site=en.uesp.net
 $site=elderscrolls.fandom.com,discard
 $site=the-elder-scrolls.fandom.com,discard
 $site=skyrim.fandom.com,discard
@@ -712,60 +714,60 @@ $site=elderscrolls.neoseeker.com,discard
 $site=skyrim.neoseeker.com,discard
 
 ! Ember Knights Wiki
-$site=emberknights.wiki.gg,boost
+$site=emberknights.wiki.gg
 $site=ember-knights-game.fandom.com,discard
 
 ! Empire of Sin Wiki
-$site=eos.paradoxwikis.com,boost
+$site=eos.paradoxwikis.com
 $site=empireofsin.fandom.com,discard
 
 ! Empires of the Undergrowth Wiki
-/wiki/Empires_of_the_Undergrowth$site=hoodedhorse.com,boost
+/wiki/Empires_of_the_Undergrowth$site=hoodedhorse.com
 $site=empires-of-the-undergrowth.fandom.com,discard
 
 ! ENA Wiki
-$site=ena.wiki.gg,boost
+$site=ena.wiki.gg
 $site=enajoelg.fandom.com,discard
 
 ! Enshrouded Wiki
-$site=enshrouded.wiki.gg,boost
+$site=enshrouded.wiki.gg
 $site=enshrouded.fandom.com,discard
 
 ! Enter the Gungeon Wiki
-$site=enterthegungeon.wiki.gg,boost
+$site=enterthegungeon.wiki.gg
 $site=enterthegungeon.fandom.com,discard
 
 ! Epithet Erased Wiki
-$site=epitheterasedwiki.com,boost
+$site=epitheterasedwiki.com
 $site=epithet-erased.fandom.com,discard
 
 ! eRepublik Wiki
-$site=wiki.erepublik.com,boost
+$site=wiki.erepublik.com
 $site=erepublik.fandom.com,discard
 
 ! Essentials Engine Wiki
-$site=essentialsengine.miraheze.org,boost
+$site=essentialsengine.miraheze.org
 $site=essentialsdocs.fandom.com,discard
 
 ! EvaWiki
-$site=wiki.evageeks.org,boost
+$site=wiki.evageeks.org
 $site=evangelion.fandom.com,discard
 $site=evangelion.neoseeker.com,discard
 
 ! EVE University Wiki
-$site=wiki.eveuniversity.org,boost
+$site=wiki.eveuniversity.org
 $site=eve.fandom.com,discard
 
 ! Evil Prince and the Puppet Wiki
-$site=akuaya.miraheze.org,boost
+$site=akuaya.miraheze.org
 $site=evil-prince-and-the-puppet.fandom.com,discard
 
 ! Factorio Wiki
-$site=wiki.factorio.com,boost
+$site=wiki.factorio.com
 $site=factorio.fandom.com,discard
 
 ! Independent Fallout Wiki
-$site=fallout.wiki,boost
+$site=fallout.wiki
 $site=fallout.fandom.com,discard
 $site=fallout-archive.fandom.com,discard
 $site=fallout.neoseeker.com,discard
@@ -773,64 +775,64 @@ $site=fallout4.wiki.fextralife.com,discard
 $site=fallout76.wiki.fextralife.com,discard
 
 ! FamiWiki
-$site=famiwiki.net,boost
+$site=famiwiki.net
 $site=famicom.fandom.com,discard
 
 ! Farming Simulator Wiki
-$site=farmingsimulator.wiki.gg,boost
+$site=farmingsimulator.wiki.gg
 $site=farmingsimulator.fandom.com,discard
 
 ! Farthest Frontier Wiki
-$site=farthestfrontier.wiki,boost
+$site=farthestfrontier.wiki
 $site=farthest-frontier.fandom.com,discard
 
 ! Zero Wiki
-$site=wiki.thelostvillage.net,boost
+$site=wiki.thelostvillage.net
 $site=fatalframe.fandom.com,discard
 
 ! Fear & Hunger Wiki
-$site=fearandhunger.wiki.gg,boost
+$site=fearandhunger.wiki.gg
 $site=fearandhunger.fandom.com,discard
 
 ! Final Fantasy XIV Online Wiki
-$site=ffxiv.consolegameswiki.com,boost
+$site=ffxiv.consolegameswiki.com
 $site=ffxiv.fandom.com,discard
 
 ! Fields of Mistria Wiki
-$site=fieldsofmistria.wiki.gg,boost
+$site=fieldsofmistria.wiki.gg
 $site=fields-of-mistria.fandom.com,discard
 
 ! Find Everything Wiki
-$site=findeverything.miraheze.org,boost
+$site=findeverything.miraheze.org
 $site=find-everything-rbx.fandom.com,discard
 
 ! Fire Emblem Wiki
-$site=fireemblemwiki.org,boost
+$site=fireemblemwiki.org
 $site=fireemblem.fandom.com,discard
 $site=fireemblem.neoseeker.com,discard
 
 ! Fisch Wiki
-$site=fischipedia.org,boost
+$site=fischipedia.org
 $site=fisch.fandom.com,discard
 
 ! Foxhole Wiki
-$site=foxhole.wiki.gg,boost
+$site=foxhole.wiki.gg
 $site=foxhole.fandom.com,discard
 
 ! Frackin' Universe Wiki
-$site=frackinuniverse.miraheze.org,boost
+$site=frackinuniverse.miraheze.org
 $site=frackinuniverse.fandom.com,discard
 
 ! FreeSpace Wiki
-$site=wiki.hard-light.net,boost
+$site=wiki.hard-light.net
 $site=freespace.fandom.com,discard
 
 ! Friday Night Funkin Wiki
-$site=fridaynightfunkin.wiki.gg,boost
+$site=fridaynightfunkin.wiki.gg
 $site=fridaynightfunkin.fandom.com,discard
 
 ! FatTWiki
-$site=fatt.wiki,boost
+$site=fatt.wiki
 $site=friendsatthetable.fandom.com,discard
 $site=thenewarchives.fandom.com,discard
 $site=counterweight.fandom.com,discard
@@ -840,398 +842,398 @@ $site=sangfielle.fandom.com,discard
 $site=visit-bluff-city.fandom.com,discard
 
 ! from ARGONAVIS Wiki
-$site=argobdp.miraheze.org,boost
+$site=argobdp.miraheze.org
 $site=argo-bdp.fandom.com,discard
 
 ! FTL Multiverse Database
-$site=ftlmultiverse.miraheze.org,boost
+$site=ftlmultiverse.miraheze.org
 $site=ftlmultiverse.fandom.com,discard
 
 ! The Infosphere
-$site=theinfosphere.org,boost
+$site=theinfosphere.org
 $site=futurama.fandom.com,discard
 $site=futurama.neoseeker.com,discard
 
 ! F-Zero Wiki
-$site=mutecity.org,boost
+$site=mutecity.org
 $site=fzero.fandom.com,discard
 $site=fzero.neoseeker.com,discard
 
 ! Galaxy Life Wiki
-$site=galaxylife.wiki.gg,boost
+$site=galaxylife.wiki.gg
 $site=galaxylife.fandom.com,discard
 
 ! Galaxy on Fire Wiki
-$site=galaxyonfire.wiki.gg,boost
+$site=galaxyonfire.wiki.gg
 $site=galaxyonfire.fandom.com,discard
 
 ! A Wiki of Ice and Fire
-$site=awoiaf.westeros.org,boost
+$site=awoiaf.westeros.org
 $site=iceandfire.fandom.com,discard
 
 ! Garn47 Wiki
-$site=garn47.miraheze.org,boost
+$site=garn47.miraheze.org
 $site=garn47.fandom.com,discard
 
 ! GTTOD Wiki
-$site=gttod.wiki.gg,boost
+$site=gttod.wiki.gg
 $site=gttod.fandom.com,discard
 
 ! Gexpedia
-$site=gexpedia.miraheze.org,boost
+$site=gexpedia.miraheze.org
 $site=gex.fandom.com,discard
 
 ! Gigantic Wiki
-$site=gogigantic.wiki,boost
+$site=gogigantic.wiki
 $site=gigantic.fandom.com,discard
 $site=gigantic-archive.fandom.com,discard
 
 ! Gimkit Wiki
-$site=gimkit.wiki,boost
+$site=gimkit.wiki
 $site=gimkit.fandom.com,discard
 
 ! IOP Wiki
-$site=iopwiki.com,boost
+$site=iopwiki.com
 $site=girls-frontline.fandom.com,discard
 
 ! Girls' Last Tour Wiki
-$site=girlslasttour.miraheze.org,boost
+$site=girlslasttour.miraheze.org
 $site=girls-last-tour.fandom.com,discard
 
 ! (the) Gnorp Apologue Wiki
-$site=gnorp.wiki.gg,boost
+$site=gnorp.wiki.gg
 $site=gnorp-apologue.fandom.com,discard
 
 ! Wikizilla
-$site=wikizilla.org,boost
+$site=wikizilla.org
 $site=godzilla.fandom.com,discard
 
 ! Golden Sun Universe
-$site=goldensunwiki.net,boost
+$site=goldensunwiki.net
 $site=goldensun.fandom.com,discard
 $site=goldensun.neoseeker.com,discard
 
 ! Gothic Wiki
-$site=gothic.wiki,boost
+$site=gothic.wiki
 $site=gothic.fandom.com,discard
 
 ! Graal Military Wiki
-$site=wiki.graalmilitary.com,boost
+$site=wiki.graalmilitary.com
 $site=graalmilitary.fandom.com,discard
 
 ! Granblue Wiki
-$site=gbf.wiki,boost
+$site=gbf.wiki
 $site=granblue.fandom.com,discard
 
 ! Green Day Wiki
-$site=greenday.shoutwiki.com,boost
+$site=greenday.shoutwiki.com
 $site=greenday.fandom.com,discard
 
 ! Guild Wars Wiki
-$site=wiki.guildwars.com,boost
+$site=wiki.guildwars.com
 $site=guildwiki.fandom.com,discard
 
 ! Guilty Gear Wiki
-$site=guiltygear.wiki.gg,boost
+$site=guiltygear.wiki.gg
 $site=guiltygear.fandom.com,discard
 
 ! Habbox Wiki
-$site=habboxwiki.com,boost
+$site=habboxwiki.com
 $site=habbo.fandom.com,discard
 
 ! Combine OverWiki
-$site=combineoverwiki.net,boost
+$site=combineoverwiki.net
 $site=half-life.fandom.com,discard
 $site=halflife.neoseeker.com,discard
 
 ! Halopedia
-$site=www.halopedia.org,boost
+$site=www.halopedia.org
 $site=halo.fandom.com,discard
 $site=halo.neoseeker.com,discard
 
 ! Hanna-Barbera Wiki
-$site=hanna-barberawiki.com,boost
+$site=hanna-barberawiki.com
 $site=hanna-barbera.fandom.com,discard
 
 ! Hearthstone Wiki
-$site=hearthstone.wiki.gg,boost
+$site=hearthstone.wiki.gg
 $site=hearthstone.fandom.com,discard
 $site=hearthstone.neoseeker.com,discard
 
 ! Helldivers Wiki
-$site=helldivers.wiki.gg,boost
+$site=helldivers.wiki.gg
 $site=helldivers.fandom.com,discard
 
 ! Hellmet Wiki
-$site=hellmet.miraheze.org,boost
+$site=hellmet.miraheze.org
 $site=hellmet-roblox.fandom.com,discard
 
 ! Hello Neighbor Wiki
-$site=helloneighbor.wiki.gg,boost
+$site=helloneighbor.wiki.gg
 $site=hello-neighbor.fandom.com,discard
 
 ! Hollow Knight Wiki
-$site=hollowknight.wiki,boost
+$site=hollowknight.wiki
 $site=hollowknight.fandom.com,discard
 $site=hollowknight.wiki.fextralife.com,discard
 $site=hollowknightsilksong.wiki.fextralife.com,discard
 
 ! HoloCure Wiki
-$site=holocure.wiki.gg,boost
+$site=holocure.wiki.gg
 $site=holocure.fandom.com,discard
 
 ! Hololive Fan Wiki
-$site=hololive.wiki,boost
+$site=hololive.wiki
 $site=hololivevtuber.fandom.com,discard
 
 ! Heroes III Wiki
-$site=heroes.thelazy.net,boost
+$site=heroes.thelazy.net
 $site=homm.fandom.com,discard
 
 ! HoneyWorks Premium Live Wiki
-$site=hanipre.miraheze.org,boost
+$site=hanipre.miraheze.org
 $site=honeyworks-premium-live.fandom.com,discard
 
 ! HorizonXI Wiki
-$site=horizonffxi.wiki,boost
+$site=horizonffxi.wiki
 $site=horizonxi.fandom.com,discard
 
 ! Horticular Wiki
-$site=horticular.wiki.gg,boost
+$site=horticular.wiki.gg
 $site=horticular.fandom.com,discard
 
 ! Houkai Gakuen 2 Wiki
-$site=houkai2nd.miraheze.org,boost
+$site=houkai2nd.miraheze.org
 $site=houkai2nd.fandom.com,discard
 
 ! Hybrid Animals Wiki
-$site=hybridanimals.wiki.gg,boost
+$site=hybridanimals.wiki.gg
 $site=hybridanimals.fandom.com,discard
 
 ! HyperRogue Wiki
-$site=hyperrogue.miraheze.org,boost
+$site=hyperrogue.miraheze.org
 $site=hyperrogue.fandom.com,discard
 
 ! Hypnospace Wiki
-$site=hypnospace.wiki.gg,boost
+$site=hypnospace.wiki.gg
 $site=hypnospace.fandom.com,discard
 
 ! Idle Wizard Wiki
-$site=idlewizard.wiki.gg,boost
+$site=idlewizard.wiki.gg
 $site=idle-wizard.fandom.com,discard
 
 ! Idling to Rule the Gods Wiki
-$site=itrtg.wiki.gg,boost
+$site=itrtg.wiki.gg
 $site=idling-to-rule-the-gods.fandom.com,discard
 
 ! IDOLiSH7 Wiki
-$site=idolish7.miraheze.org,boost
+$site=idolish7.miraheze.org
 $site=idolish7.fandom.com,discard
 
 ! Project iM@S
-$site=project-imas.wiki,boost
+$site=project-imas.wiki
 $site=idolmaster.fandom.com,discard
 
 ! Illusion Carnival Wiki
-$site=illusioncarnival.wiki.gg,boost
+$site=illusioncarnival.wiki.gg
 $site=illusion-carnival.fandom.com,discard
 
 ! Immortal Life Wiki
-$site=immortallife.wiki.gg,boost
+$site=immortallife.wiki.gg
 $site=immortal-life.fandom.com,discard
 
 ! INMOST Wiki
-$site=inmostwiki.com,boost
+$site=inmostwiki.com
 $site=inmost.fandom.com,discard
 
 ! In Stars and Time Wiki
-$site=instarsandtime.wiki.gg,boost
+$site=instarsandtime.wiki.gg
 $site=in-stars-and-time.fandom.com,discard
 
 ! INTerpalore Wiki
-$site=whenobjectsworks.miraheze.org,boost
+$site=whenobjectsworks.miraheze.org
 $site=jordanb.fandom.com,discard
 
 ! JBC Item Asylum Wiki
-$site=jbcstudios.miraheze.org,boost
+$site=jbcstudios.miraheze.org
 $site=item-asylum-wiki.fandom.com,discard
 
 ! I Wanna Lockpick Wiki
-$site=iwannalockpickwiki.miraheze.org,boost
+$site=iwannalockpickwiki.miraheze.org
 $site=iwannalockpick.fandom.com,discard
 
 ! JoJo's Bizarre Encyclopedia
-$site=jojowiki.com,boost
+$site=jojowiki.com
 $site=jojo.fandom.com,discard
 
 ! Junk Jack Wiki
-$site=junkjack.wiki.gg,boost
+$site=junkjack.wiki.gg
 $site=junkjack.fandom.com,discard
 
 ! Kairosoft Wiki
-$site=kairosoft.wiki.gg,boost
+$site=kairosoft.wiki.gg
 $site=kairosoft.fandom.com,discard
 
 ! Kancolle Wiki
-$site=en.kancollewiki.net,boost
+$site=en.kancollewiki.net
 $site=kancolle.fandom.com,discard
 
 ! Katamaripedia
-$site=katamaripedia.miraheze.org,boost
+$site=katamaripedia.miraheze.org
 $site=katamari.fandom.com,discard
 
 ! Katana ZERO Wiki
-$site=katanazero.wiki.gg,boost
+$site=katanazero.wiki.gg
 $site=katana-zero.fandom.com,discard
 
 ! Japari Library
-$site=japari-library.com,boost
+$site=japari-library.com
 $site=kemono-friends.fandom.com,discard
 
 ! Highway 0
-$site=consolidatedpower.co,boost
+$site=consolidatedpower.co
 $site=kentucky-route-zero.fandom.com,discard
 
 ! Kerbal Space Program Wiki
-$site=wiki.kerbalspaceprogram.com,boost
+$site=wiki.kerbalspaceprogram.com
 $site=kerbalspaceprogram.fandom.com,discard
 
 ! Kingdom Hearts Wiki
-$site=www.khwiki.com,boost
+$site=www.khwiki.com
 $site=kingdomhearts.fandom.com,discard
 $site=kingdomhearts.neoseeker.com,discard
 
 ! KHUX Wiki
-$site=www.khuxwiki.com,boost
+$site=www.khuxwiki.com
 $site=unchainedx.fandom.com,discard
 
 ! WiKirby
-$site=wikirby.com,boost
+$site=wikirby.com
 $site=kirby.fandom.com,discard
 $site=kirby.neoseeker.com,discard
 
 ! Knighthood Wiki
-$site=knighthood.wiki.gg,boost
+$site=knighthood.wiki.gg
 $site=knighthood.fandom.com,discard
 
 ! Knuckle Cracker Wiki
-$site=knucklecracker.com,boost
+$site=knucklecracker.com
 $site=knucklecracker.fandom.com,discard
 
 ! Koei Tecmo Wiki
-$site=koeitecmo.wiki,boost
+$site=koeitecmo.wiki
 $site=koei.fandom.com,discard
 
 ! Kynseed Wiki
-$site=wiki.kynseed.com,boost
+$site=wiki.kynseed.com
 $site=kynseed.fandom.com,discard
 
 ! Last Origin Wiki
-$site=lastorigin.wiki.gg,boost
+$site=lastorigin.wiki.gg
 $site=lastorigin.fandom.com,discard
 
 ! Leaf Blower Revolution Wiki
-$site=leafblowerrevolution.wiki.gg,boost
+$site=leafblowerrevolution.wiki.gg
 $site=leaf-blower-revolution.fandom.com,discard
 
 ! League of Legends Wiki
-$site=wiki.leagueoflegends.com,boost
+$site=wiki.leagueoflegends.com
 $site=leagueoflegends.fandom.com,discard
 $site=leagueoflegends.neoseeker.com,discard
 
 ! Gineipaedia
-$site=gineipaedia.com,boost
+$site=gineipaedia.com
 $site=legendofthegalacticheroes.fandom.com,discard
 
 ! Len'en Wiki
-$site=lenen.shoutwiki.com,boost
+$site=lenen.shoutwiki.com
 $site=lenen.fandom.com,discard
 
 ! Lethal Company Wiki
-$site=lethal.miraheze.org,boost
+$site=lethal.miraheze.org
 $site=lethal-company.fandom.com,discard
 
 ! Leviathan Myth Wiki
-$site=leviathanmyth.miraheze.org,boost
+$site=leviathanmyth.miraheze.org
 $site=leviathan-myth.fandom.com,discard
 
 ! Lexington & Concord Wiki
-$site=lexingtonandconcord.miraheze.org,boost
+$site=lexingtonandconcord.miraheze.org
 $site=lexington-and-concord.fandom.com,discard
 
 ! Library of Ruina Wiki
-$site=libraryofruina.wiki.gg,boost
+$site=libraryofruina.wiki.gg
 $site=library-of-ruina.fandom.com,discard
 
 ! Limbus Company Wiki
-$site=limbuscompany.wiki.gg,boost
+$site=limbuscompany.wiki.gg
 $site=limbuscompany.fandom.com,discard
 
 ! Linkinpedia
-$site=linkinpedia.com,boost
+$site=linkinpedia.com
 $site=linkinpark.fandom.com,discard
 
 ! Little King's Story Wiki
-$site=littlekingsstory.wiki.gg,boost
+$site=littlekingsstory.wiki.gg
 $site=littlekingsstory.fandom.com,discard
 
 ! Wiki of Loathing
-$site=loathing.wiki.gg,boost
+$site=loathing.wiki.gg
 $site=shadowsoverloathing.fandom.com,discard
 
 ! Mushu Report's Lorcana Wiki
-$site=wiki.mushureport.com,boost
+$site=wiki.mushureport.com
 $site=lorcana.fandom.com,discard
 
 ! Tolkien Gateway
-$site=tolkiengateway.net,boost
+$site=tolkiengateway.net
 $site=lotr.fandom.com,discard
 $site=lotr.neoseeker.com,discard
 
 ! LOVE-BULLET Wiki
-$site=lovebullet.wiki,boost
+$site=lovebullet.wiki
 $site=love-bullet.fandom.com,discard
 
 ! Mabinogi World Wiki
-$site=wiki.mabinogiworld.com,boost
+$site=wiki.mabinogiworld.com
 $site=mabinogi.fandom.com,discard
 
 ! Puella Magi Wiki
-$site=wiki.puella-magi.net,boost
+$site=wiki.puella-magi.net
 $site=madoka.fandom.com,discard
 
 ! Magical Mixture Mill Wiki
-$site=themagicalmixturemill.wiki.gg,boost
+$site=themagicalmixturemill.wiki.gg
 $site=the-magical-mixture-mill.fandom.com,discard
 
 ! Kovopedia
-$site=kovopedia.com,boost
+$site=kovopedia.com
 $site=magicalstarsign.fandom.com,discard
 $site=magicalvacation.fandom.com,discard
 
 ! MTG Wiki
-$site=mtg.wiki,boost
+$site=mtg.wiki
 $site=mtg.fandom.com,discard
 
 ! Wiki of Mana
-$site=wikiofmana.com,boost
+$site=wikiofmana.com
 $site=mana.fandom.com,discard
 
 ! Manor Lords Wiki
-/wiki/Manor_Lords$site=hoodedhorse.com,boost
+/wiki/Manor_Lords$site=hoodedhorse.com
 $site=manor-lords.fandom.com,discard
 
 ! MapleStory Wiki
-$site=maplestorywiki.net,boost
+$site=maplestorywiki.net
 $site=maplestory.fandom.com,discard
 $site=maplestory.neoseeker.com,discard
 
 ! Mappercraft Wiki
-$site=mappercraft.miraheze.org,boost
+$site=mappercraft.miraheze.org
 $site=mappercraft.fandom.com,discard
 
 ! Super Mario Wiki
-$site=www.mariowiki.com,boost
+$site=www.mariowiki.com
 $site=mario.fandom.com,discard
 $site=donkeykong.fandom.com,discard
 $site=mario.neoseeker.com,discard
@@ -1242,49 +1244,49 @@ $site=diceblock.fandom.com,discard
 $site=luigi-mansion.fandom.com,discard
 
 ! MCC Island Wiki
-$site=mccisland.wiki,boost
+$site=mccisland.wiki
 $site=mccisland.fandom.com,discard
 
 ! Medapedia
-$site=medarot.meowcorp.us,boost
+$site=medarot.meowcorp.us
 $site=medabots.fandom.com,discard
 
 ! Gallowpedia (MediEvil Wiki)
-$site=medievil.wiki,boost
+$site=medievil.wiki
 $site=gallowmere.fandom.com,discard
 
 ! Megami Tensei Wiki
-$site=megatenwiki.com,boost
+$site=megatenwiki.com
 $site=megamitensei.fandom.com,discard
 $site=megamitensei.neoseeker.com,discard
 
 ! Melvor Idle Wiki
-$site=wiki.melvoridle.com,boost
+$site=wiki.melvoridle.com
 $site=melvor-idle.fandom.com,discard
 
 ! Merc Storia Wiki
-$site=mercstoria.miraheze.org,boost
+$site=mercstoria.miraheze.org
 $site=merc-storia-english.fandom.com,discard
 
 ! MicroWiki
-$site=micronations.wiki,boost
+$site=micronations.wiki
 $site=micronations.fandom.com,discard
 $site=microcountries.fandom.com,discard
 
 ! MiiWiki
-$site=miiwiki.org,boost
+$site=miiwiki.org
 $site=miiwiki.fandom.com,discard
 
 ! Milk Series Wiki
-$site=milk.wiki.gg,boost
+$site=milk.wiki.gg
 $site=milk-games.fandom.com,discard
 
 ! MINDHACK Wiki
-$site=mindhack.wiki.gg,boost
+$site=mindhack.wiki.gg
 $site=mindhack.fandom.com,discard
 
 ! Minecraft Wiki
-$site=minecraft.wiki,boost
+$site=minecraft.wiki
 $site=minecraft.fandom.com,discard
 $site=minecraft-archive.fandom.com,discard
 $site=mcpc.fandom.com,discard
@@ -1295,953 +1297,953 @@ $site=minecraftdungeons.wiki.fextralife.com,discard
 $site=minecraftdungeons-archive.fandom.com,discard
 
 ! Marvel Superheroes Mod Wiki
-$site=marvelsuperheroesmod.wiki.gg,boost
+$site=marvelsuperheroesmod.wiki.gg
 $site=marvel-superheroes-mod.fandom.com,discard
 
 ! Minehut Wiki
-$site=minehut.wiki.gg,boost
+$site=minehut.wiki.gg
 $site=minehut.fandom.com,discard
 $site=minehutmc.fandom.com,discard
 
 ! Minicraft Wiki
-$site=minicraft.wiki.gg,boost
+$site=minicraft.wiki.gg
 $site=minicraft.fandom.com,discard
 
 ! MiSide Wiki
-$site=miside.wiki.gg,boost
+$site=miside.wiki.gg
 $site=miside.fandom.com,discard
 
 ! Monsters & Memories Wiki
-$site=monstersandmemories.miraheze.org,boost
+$site=monstersandmemories.miraheze.org
 $site=monsters-and-memories.fandom.com,discard
 
 ! MultiVersus Wiki
-$site=multiversus.wiki.gg,boost
+$site=multiversus.wiki.gg
 $site=multiversus.fandom.com,discard
 
 ! Equestripedia
-$site=equestripedia.org,boost
+$site=equestripedia.org
 $site=mlp.fandom.com,discard
 $site=mylittlepony.neoseeker.com,discard
 
 ! Guild of Archivists Wiki
-$site=archive.guildofarchivists.org,boost
+$site=archive.guildofarchivists.org
 $site=dni.fandom.com,discard
 
 ! Mystery Dungeon Wiki
-$site=mysterydungeonwiki.com,boost
+$site=mysterydungeonwiki.com
 $site=mysterydungeon.fandom.com,discard
 $site=pmd-rt-archive.fandom.com,discard
 
 ! Necesse Wiki
-$site=necessewiki.com,boost
+$site=necessewiki.com
 $site=necesse.fandom.com,discard
 
 ! Crypt of the NecroDancer Wiki
-$site=necrodancer.miraheze.org,boost
+$site=necrodancer.miraheze.org
 $site=crypt-of-the-necrodancer.fandom.com,discard
 
 ! NecroMerger Wiki
-$site=necromerger.wiki.gg,boost
+$site=necromerger.wiki.gg
 $site=necromerger.fandom.com,discard
 
 ! Neocron Wiki
-$site=wiki.techhaven.org,boost
+$site=wiki.techhaven.org
 $site=neocron-guide.fandom.com,discard
 
 ! NetHackWiki
-$site=nethackwiki.com,boost
+$site=nethackwiki.com
 $site=nethack.fandom.com,discard
 
 ! Nightmare Reaper Wiki
-$site=nightmarereaper.wiki.gg,boost
+$site=nightmarereaper.wiki.gg
 $site=nightmare-reaper.fandom.com,discard
 
 ! NinWiki
-$site=www.nin.wiki,boost
+$site=www.nin.wiki
 $site=nin.fandom.com,discard
 
 ! Nine Sols Wiki
-$site=ninesols.wiki.gg,boost
+$site=ninesols.wiki.gg
 $site=ninesols.fandom.com,discard
 
 ! Nitrome Wiki
-$site=nitrome.wiki.gg,boost
+$site=nitrome.wiki.gg
 $site=nitrome.fandom.com,discard
 
 ! Noita Wiki
-$site=noita.wiki.gg,boost
+$site=noita.wiki.gg
 $site=noita.fandom.com,discard
 
 ! Norland Wiki
-/wiki/Norland$site=hoodedhorse.com,boost
+/wiki/Norland$site=hoodedhorse.com
 $site=norland.fandom.com,discard
 
 ! HBM's Nuclear Tech Wiki
-$site=nucleartech.wiki,boost
+$site=nucleartech.wiki
 $site=ntm.fandom.com,discard
 
 ! Oaklands Wiki
-$site=oaklandsrblxwiki.miraheze.org,boost
+$site=oaklandsrblxwiki.miraheze.org
 $site=oaklands.fandom.com,discard
 
 ! Obey Me Wiki
-$site=obeymewiki.com,boost
+$site=obeymewiki.com
 $site=obey-me.fandom.com,discard
 
 ! OSRS Wiki
-$site=oldschool.runescape.wiki,boost
+$site=oldschool.runescape.wiki
 $site=oldschoolrunescape.fandom.com,discard
 
 ! Omega Strikers Wiki
-$site=omegastrikers.wiki.gg,boost
+$site=omegastrikers.wiki.gg
 $site=omegastrikers.fandom.com,discard
 
 ! Osamu Sato Wiki
-$site=compu-lsd.com,boost
+$site=compu-lsd.com
 $site=easternmind.fandom.com,discard
 
 ! Oxygen Not Included Wiki
-$site=oxygennotincluded.wiki.gg,boost
+$site=oxygennotincluded.wiki.gg
 $site=oxygennotincluded.fandom.com,discard
 
 ! Pacific Drive Wiki
-$site=pacificdrive.wiki,boost
+$site=pacificdrive.wiki
 $site=pacific-drive.fandom.com,discard
 
 ! The Pale Beyond Wiki
-$site=thepalebeyond.wiki.gg,boost
+$site=thepalebeyond.wiki.gg
 $site=pale-beyond.fandom.com,discard
 
 ! Palia Wiki
-$site=palia.wiki.gg,boost
+$site=palia.wiki.gg
 $site=palia.fandom.com,discard
 
 ! Palworld Wiki
-$site=palworld.wiki.gg,boost
+$site=palworld.wiki.gg
 $site=palworld.fandom.com,discard
 
 ! PathfinderWiki
-$site=pathfinderwiki.com,boost
+$site=pathfinderwiki.com
 $site=pathfinder.fandom.com,discard
 
 ! Path of Achra Wiki
-$site=pathofachra.wiki.gg,boost
+$site=pathofachra.wiki.gg
 $site=path-of-achra.fandom.com,discard
 
 ! Path of Exile Wiki
-$site=www.poewiki.net,boost
+$site=www.poewiki.net
 $site=pathofexile.fandom.com,discard
 
 ! Path of Exile 2 Wiki
-$site=www.poe2wiki.net,boost
+$site=www.poe2wiki.net
 $site=pathofexile2.wiki.fextralife.com,discard
 $site=path-of-exile-2.fandom.com,discard
 
 ! Pathologic Wiki
-$site=pathologic.wiki.gg,boost
+$site=pathologic.wiki.gg
 $site=pathologic.fandom.com,discard
 
 ! PCSX2 Wiki
-$site=wiki.pcsx2.net,boost
+$site=wiki.pcsx2.net
 $site=pcsx2-emu.fandom.com,discard
 
 ! Peglin Wiki
-$site=peglin.wiki.gg,boost
+$site=peglin.wiki.gg
 $site=peglin.fandom.com,discard
 
 ! PenguinMod Wiki
-$site=wiki.penguinmod.com,boost
+$site=wiki.penguinmod.com
 $site=penguinmod.fandom.com,discard
 
 ! PHIGHTING! Wiki
-$site=phighting.wiki,boost
+$site=phighting.wiki
 $site=phighting.fandom.com,discard
 
 ! Picross Wiki
-$site=picross.miraheze.org,boost
+$site=picross.miraheze.org
 $site=picross.fandom.com,discard
 
 ! Pikipedia
-$site=www.pikminwiki.com,boost
+$site=www.pikminwiki.com
 $site=pikmin.fandom.com,discard
 $site=pikmin.neoseeker.com,discard
 
 ! Pikmin Fanon
-$site=pikminfanon.com,boost
+$site=pikminfanon.com
 $site=pikminfanon.fandom.com,discard
 
 ! Pixel Gun 3D Wiki
-$site=pg3d.wiki.gg,boost
+$site=pg3d.wiki.gg
 $site=pixelgun.fandom.com,discard
 
 ! Pizza Tower Wiki
-$site=pizzatower.wiki,boost
+$site=pizzatower.wiki
 $site=pizzatower.fandom.com,discard
 
 ! Plague Inc. Wiki
-$site=plagueinc.wiki.gg,boost
+$site=plagueinc.wiki.gg
 $site=plagueinc.fandom.com,discard
 
 ! Plants vs. Zombies Wiki
-$site=plantsvszombies.wiki.gg,boost
+$site=plantsvszombies.wiki.gg
 $site=plantsvszombies.fandom.com,discard
 
 ! Pluralpedia
-$site=pluralpedia.org,boost
+$site=pluralpedia.org
 $site=plural.fandom.com,discard
 
 ! Bulbapedia
-$site=bulbapedia.bulbagarden.net,boost
+$site=bulbapedia.bulbagarden.net
 $site=pokemon.fandom.com,discard
 $site=pokemon-archive.fandom.com,discard
 $site=pokemon.neoseeker.com,discard
 
 ! Pokémon Unbound Wiki
-$site=pokemonunbound.miraheze.org,boost
+$site=pokemonunbound.miraheze.org
 $site=pokemonunbound.fandom.com,discard
 
 ! Popira Wiki
-/wiki$site=popira20.com,boost
+/wiki$site=popira20.com
 $site=popira.fandom.com,discard
 
 ! Portal Wiki
-$site=theportalwiki.com,boost
+$site=theportalwiki.com
 $site=portals.fandom.com,discard
 $site=portal-valve.fandom.com,discard
 $site=portalinfo.fandom.com,discard
 
 ! Poupedia
-$site=poupedia.com,boost
+$site=poupedia.com
 $site=pou.fandom.com,discard
 
 ! Prison Architect Wiki
-$site=prisonarchitect.paradoxwikis.com,boost
+$site=prisonarchitect.paradoxwikis.com
 $site=prison-architect.fandom.com,discard
 
 ! Mili Wiki
-$site=mili.wiki.gg,boost
+$site=mili.wiki.gg
 $site=project-mili.fandom.com,discard
 
 ! Sekaipedia
-$site=www.sekaipedia.org,boost
+$site=www.sekaipedia.org
 $site=projectsekai.fandom.com,discard
 
 ! Project Wingman Wiki
-$site=projectwingman.wiki.gg,boost
+$site=projectwingman.wiki.gg
 $site=projectwingman.fandom.com,discard
 
 ! Project Zomboid Wiki
-$site=pzwiki.net,boost
+$site=pzwiki.net
 $site=projectzomboid.fandom.com,discard
 
 ! Protochroma Wiki
-$site=protochroma.wiki,boost
+$site=protochroma.wiki
 $site=protochroma.fandom.com,discard
 
 ! PUBG Wiki
-$site=pubg.wiki.gg,boost
+$site=pubg.wiki.gg
 $site=pubg.fandom.com,discard
 
 ! Puyo Nexus Wiki
-$site=puyonexus.com,boost
+$site=puyonexus.com
 $site=arleandcarbuncle.fandom.com,discard
 
 ! Python Wiki
-$site=wiki.python.org,boost
+$site=wiki.python.org
 $site=python.fandom.com,discard
 
 ! Rainverse Wiki
-$site=rainverse.wiki,boost
+$site=rainverse.wiki
 $site=rain-web-comic.fandom.com,discard
 $site=rain-webcomic.fandom.com,discard
 $site=myimpossiblesoulmate.fandom.com,discard
 
 ! Rain World Wiki
-$site=rainworld.miraheze.org,boost
+$site=rainworld.miraheze.org
 $site=rain-world-game.fandom.com,discard
 $site=rain-world07.fandom.com,discard
 
 ! RammWiki
-$site=rammwiki.net,boost
+$site=rammwiki.net
 $site=rammstein.fandom.com,discard
 
 ! RayWiki
-$site=raymanpc.com,boost
+$site=raymanpc.com
 $site=rayman.fandom.com,discard
 $site=raymanpedia.fandom.com,discard
 $site=rayman-game.fandom.com,discard
 $site=ubisoftrayman.fandom.com,discard
 
 ! RollerCoaster Tycoon Wiki
-$site=rct.wiki,boost
+$site=rct.wiki
 $site=rct.fandom.com,discard
 
 ! Real Space 4 Pivot Animation Wiki
-$site=realspace4animation.wiki.gg,boost
+$site=realspace4animation.wiki.gg
 $site=real-space-4-animation.fandom.com,discard
 
 ! Red Flood Mod Wiki
-$site=redflood.wiki.gg,boost
+$site=redflood.wiki.gg
 $site=red-flood.fandom.com,discard
 
 ! Remnant 2 Wiki
-$site=remnant.wiki,boost
+$site=remnant.wiki
 $site=remnant2.wiki.fextralife.com,discard
 
 ! Rhythm Doctor Wiki
-$site=wiki.rhythm.cafe,boost
+$site=wiki.rhythm.cafe
 $site=rhythm-doctor.fandom.com,discard
 
 ! Rhythm Heaven Wiki
-$site=rhwiki.net,boost
+$site=rhwiki.net
 $site=rhythmheaven.fandom.com,discard
 
 ! Ricochet Wiki
-$site=wiki.ricochetuniverse.com,boost
+$site=wiki.ricochetuniverse.com
 $site=ricochet-universe.fandom.com,discard
 $site=ricochetlw.fandom.com,discard
 
 ! Japanese Mahjong Wiki
-$site=riichi.wiki,boost
+$site=riichi.wiki
 $site=mahjong.fandom.com,discard
 
 ! RimWorld Wiki
-$site=rimworldwiki.com,boost
+$site=rimworldwiki.com
 $site=rimworld.fandom.com,discard
 
 ! Risk of Rain Wiki
-$site=riskofrain.wiki.gg,boost
+$site=riskofrain.wiki.gg
 $site=riskofrain.fandom.com,discard
 
 ! Risk of Rain 2 Wiki
-$site=riskofrain2.wiki.gg,boost
+$site=riskofrain2.wiki.gg
 $site=riskofrain2.fandom.com,discard
 
 ! RLCraft Wiki
-$site=rlcraft.wiki.gg,boost
+$site=rlcraft.wiki.gg
 $site=rlcraft.fandom.com,discard
 
 ! Roblox Critical Strike Wiki
-$site=robloxcriticalstrike.miraheze.org,boost
+$site=robloxcriticalstrike.miraheze.org
 $site=roblox-critical-strike.fandom.com,discard
 
 ! Pressure Wiki
-$site=urbanshade.org,boost
+$site=urbanshade.org
 $site=pressure.fandom.com,discard
 $site=pressure-roblox.fandom.com,discard
 
 ! Coasterpedia
-$site=coasterpedia.net,boost
+$site=coasterpedia.net
 $site=rollercoaster.fandom.com,discard
 
 ! Roots of Pacha Wiki
-$site=rootsofpacha.wiki.gg,boost
+$site=rootsofpacha.wiki.gg
 $site=rootsofpacha.fandom.com,discard
 
 ! RuneScape Wiki
-$site=runescape.wiki,boost
+$site=runescape.wiki
 $site=runescape.fandom.com,discard
 $site=runescape.neoseeker.com,discard
 
 ! RuneScape Classic Wiki
-$site=classic.runescape.wiki,boost
+$site=classic.runescape.wiki
 $site=runescapeclassic.fandom.com,discard
 
 ! SaGa Wiki
-$site=sagawiki.org,boost
+$site=sagawiki.org
 $site=saga.fandom.com,discard
 
 ! WikiMoon
-$site=wikimoon.org,boost
+$site=wikimoon.org
 $site=sailormoon.fandom.com,discard
 
 ! Salem Wiki
-$site=salemthegame.wiki,boost
+$site=salemthegame.wiki
 $site=salemcraftingmmo.fandom.com,discard
 
 ! Sandboxels Wiki
-$site=sandboxels.wiki.gg,boost
+$site=sandboxels.wiki.gg
 $site=sandboxels.fandom.com,discard
 
 ! Sanrio Wiki
-$site=sanriowiki.com,boost
+$site=sanriowiki.com
 $site=sanrio.fandom.com,discard
 
 ! Satisfactory Wiki
-$site=satisfactory.wiki.gg,boost
+$site=satisfactory.wiki.gg
 $site=satisfactory.fandom.com,discard
 
 ! Ovalkwiki
-$site=www.ovalkwiki.com,boost
+$site=www.ovalkwiki.com
 $site=schlockmercenary.fandom.com,discard
 
 ! SCP: Secret Laboratory Wiki
-$site=en.scpslgame.com,boost
+$site=en.scpslgame.com
 $site=scp-secret-laboratory-official.fandom.com,discard
 
 ! Scrabdackle Wiki
-$site=scrabdackle.wiki.gg,boost
+$site=scrabdackle.wiki.gg
 $site=scrabdackle.fandom.com,discard
 
 ! Sea of Thieves Wiki
-$site=seaofthieves.wiki.gg,boost
+$site=seaofthieves.wiki.gg
 $site=seaofthieves.fandom.com,discard
 
 ! Sega Retro
-$site=segaretro.org,boost
+$site=segaretro.org
 $site=sega.fandom.com,discard
 
 ! SilentBlue RemyWiki
-$site=silentblue.remywiki.com,boost
+$site=silentblue.remywiki.com
 $site=chunithm.fandom.com,discard
 $site=maimai-intl.fandom.com,discard
 $site=maimaieng.fandom.com,discard
 $site=ongeki.fandom.com,discard
 
 ! Serial Experiments Lain Wiki
-$site=lain.wiki,boost
+$site=lain.wiki
 $site=sel.fandom.com,discard
 
 ! Severance Wiki
-$site=severance.wiki,boost
+$site=severance.wiki
 $site=severance-tv.fandom.com,discard
 
 ! Shiny Colors Wiki
-$site=shinycolors.wiki,boost
+$site=shinycolors.wiki
 $site=shinycolors.fandom.com,discard
 
 ! Ship of Fools Wiki
-$site=shipoffools.wiki.gg,boost
+$site=shipoffools.wiki.gg
 $site=ship-of-fools.fandom.com,discard
 
 ! SotAwiki
-$site=sotawiki.net,boost
+$site=sotawiki.net
 $site=shroudoftheavatar.fandom.com,discard
 
 ! SIGNALIS Wiki
-$site=signalis.wiki.gg,boost
+$site=signalis.wiki.gg
 $site=signalis.fandom.com,discard
 
 ! Wikisimpsons
-$site=simpsonswiki.com,boost
+$site=simpsonswiki.com
 $site=simpsons.fandom.com,discard
 $site=simpsons.neoseeker.com,discard
 
 ! Super Lesbian Animal RPG Wiki
-$site=slarpg.wiki.gg,boost
+$site=slarpg.wiki.gg
 $site=slarpg.fandom.com,discard
 
 ! Ukikipedia
-$site=ukikipedia.net,boost
+$site=ukikipedia.net
 $site=sm64-speedrun.fandom.com,discard
 
 ! Solar Conquest Wiki
-$site=wiki.solarconquest.net,boost
+$site=wiki.solarconquest.net
 $site=roblox-sc.fandom.com,discard
 
 ! Songs of Syx Wiki
-/wiki$site=songsofsyx.com,boost
+/wiki$site=songsofsyx.com
 $site=songs-of-syx.fandom.com,discard
 
 ! Sonny Wiki
-$site=sonny.wiki.gg,boost
+$site=sonny.wiki.gg
 $site=sonny.fandom.com,discard
 
 ! Sons of the Forest Wiki
-$site=sonsoftheforest.wiki.gg,boost
+$site=sonsoftheforest.wiki.gg
 $site=sonsoftheforest.fandom.com,discard
 
 ! Sons of Valhalla Wiki
-/wiki/Sons_of_Valhalla$site=hoodedhorse.com,boost
+/wiki/Sons_of_Valhalla$site=hoodedhorse.com
 $site=sons-of-valhalla.fandom.com,discard
 
 ! Soulframe Wiki
-$site=soulframe.wiki.gg,boost
+$site=soulframe.wiki.gg
 $site=soulframe.wiki.fextralife.com,discard
 
 ! South Park Archives
-$site=southpark.wiki.gg,boost
+$site=southpark.wiki.gg
 $site=southpark.fandom.com,discard
 
 ! Space Engineers Wiki
-$site=spaceengineers.wiki.gg,boost
+$site=spaceengineers.wiki.gg
 $site=spaceengineers.fandom.com,discard
 
 ! Space Pioneers Wiki
-$site=spacepioneers.miraheze.org,boost
+$site=spacepioneers.miraheze.org
 $site=space-pioneers.fandom.com,discard
 
 ! Space Station 13 Wiki
-$site=wiki.ss13.co,boost
+$site=wiki.ss13.co
 $site=spacestation13.fandom.com,discard
 
 ! Space Station 14 Wiki
-$site=wiki.spacestation14.com,boost
+$site=wiki.spacestation14.com
 $site=space-station-14.fandom.com,discard
 
 ! Spirit Mod Wiki
-$site=spiritmod.wiki.gg,boost
+$site=spiritmod.wiki.gg
 $site=spiritmod.fandom.com,discard
 
 ! Inkipedia
-$site=splatoonwiki.org,boost
+$site=splatoonwiki.org
 $site=splatoon.fandom.com,discard
 
 ! Starbounder
-$site=starbounder.org,boost
+$site=starbounder.org
 $site=starbound.fandom.com,discard
 
 ! Star Citizen Wiki
-$site=starcitizen.tools,boost
+$site=starcitizen.tools
 $site=starcitizen.fandom.com,discard
 
 ! Stardew Valley Wiki
-$site=stardewvalleywiki.com,boost
+$site=stardewvalleywiki.com
 $site=stardewvalley.fandom.com,discard
 
 ! Starfield Wiki
-$site=starfieldwiki.net,boost
+$site=starfieldwiki.net
 $site=starfield.fandom.com,discard
 $site=starfield.wiki.fextralife.com,discard
 
 ! Starfy Wiki
-$site=www.starfywiki.org,boost
+$site=www.starfywiki.org
 $site=starfy.fandom.com,discard
 
 ! Starsector Wiki
-$site=starsector.wiki.gg,boost
+$site=starsector.wiki.gg
 $site=starsector.fandom.com,discard
 
 ! Star Stable Wiki
-$site=starstable.wiki.gg,boost
+$site=starstable.wiki.gg
 $site=jorvikipedia.fandom.com,discard
 
 ! SteamWorld Wiki
-$site=steamworld.wiki.gg,boost
+$site=steamworld.wiki.gg
 $site=steamworld.fandom.com,discard
 
 ! Star Trek Online Wiki
-$site=stowiki.net,boost
+$site=stowiki.net
 $site=sto.fandom.com,discard
 
 ! Stone Story RPG Wiki
-$site=stonestoryrpg.miraheze.org,boost
+$site=stonestoryrpg.miraheze.org
 $site=stone-story-rpg.fandom.com,discard
 
 ! Strinova Wiki
-$site=strinova.org,boost
+$site=strinova.org
 $site=strinova.fandom.com,discard
 
 ! Sugary Spire Wiki
-$site=sugaryspire.wiki.gg,boost
+$site=sugaryspire.wiki.gg
 $site=sugary-spire.fandom.com,discard
 
 ! Gensopedia
-$site=gensopedia.org,boost
+$site=gensopedia.org
 $site=suikoden.fandom.com,discard
 
 ! Sun Haven Wiki
-$site=sunhaven.wiki.gg,boost
+$site=sunhaven.wiki.gg
 $site=sun-haven.fandom.com,discard
 
 ! Sunless Sea Wiki
-$site=sunlesssea.miraheze.org,boost
+$site=sunlesssea.miraheze.org
 $site=sunlesssea.fandom.com,discard
 
 ! Sunless Skies Wiki
-$site=sunlessskies.miraheze.org,boost
+$site=sunlessskies.miraheze.org
 $site=sunlessskies.fandom.com,discard
 
 ! Super Auto Pets Wiki
-$site=superautopets.wiki.gg,boost
+$site=superautopets.wiki.gg
 $site=superautopets.fandom.com,discard
 
 ! Bananapedia
-$site=bananapedia.wiki.gg,boost
+$site=bananapedia.wiki.gg
 $site=supermonkeyball.fandom.com,discard
 
 ! SmashWiki
-$site=www.ssbwiki.com,boost
+$site=www.ssbwiki.com
 $site=supersmashbros.fandom.com,discard
 $site=smashbros.neoseeker.com,discard
 
 ! Super Snail Wiki
-$site=supersnail.wiki.gg,boost
+$site=supersnail.wiki.gg
 $site=super-snail.fandom.com,discard
 
 ! Surviving Mars Wiki
-$site=survivingmars.paradoxwikis.com,boost
+$site=survivingmars.paradoxwikis.com
 $site=survivingmars.fandom.com,discard
 
 ! SYNTHETIK Universe Wiki
-$site=synthetikuniverse.wiki.gg,boost
+$site=synthetikuniverse.wiki.gg
 $site=synthetik.fandom.com,discard
 
 ! Tally Hallmanac
-$site=www.hiddeninthesand.com,boost
+$site=www.hiddeninthesand.com
 $site=tallyhall.fandom.com,discard
 
 ! The Coffin of Andy and Leyley Wiki
-$site=tcoaal.wiki,boost
+$site=tcoaal.wiki
 $site=coffin-of-andy-and-leyley.fandom.com,discard
 
 ! Team Fortress Wiki
-$site=wiki.teamfortress.com,boost
+$site=wiki.teamfortress.com
 $site=teamfortress.fandom.com,discard
 
 ! Tears of Themis Wiki
-$site=tot.wiki,boost
+$site=tot.wiki
 $site=tearsofthemis.fandom.com,discard
 
 ! Temtem Wiki
-$site=temtem.wiki.gg,boost
+$site=temtem.wiki.gg
 $site=temtem.fandom.com,discard
 
 ! Terra Invicta Wiki
-/wiki/Terra_Invicta$site=hoodedhorse.com,boost
+/wiki/Terra_Invicta$site=hoodedhorse.com
 $site=terra-invicta.fandom.com,discard
 $site=terrainvictagame.fandom.com,discard
 
 ! Terraria Wiki
-$site=terraria.wiki.gg,boost
+$site=terraria.wiki.gg
 $site=terraria.fandom.com,discard
 $site=terraria-archive.fandom.com,discard
 $site=terraria.neoseeker.com,discard
 
 ! Terraria Starlight River Mod Wiki
-$site=starlightrivermod.wiki.gg,boost
+$site=starlightrivermod.wiki.gg
 $site=terraria-starlight-river.fandom.com,discard
 
 ! Terry Pratchett Wiki
-$site=wiki.lspace.org,boost
+$site=wiki.lspace.org
 $site=discworld.fandom.com,discard
 
 ! The Broken Script Wiki
-$site=thebrokenscript.wiki.gg,boost
+$site=thebrokenscript.wiki.gg
 $site=the-broken-script.fandom.com,discard
 
 ! The Cycle: Frontier Wiki
-$site=thecyclefrontier.wiki,boost
+$site=thecyclefrontier.wiki
 $site=thecyclefrontier.fandom.com,discard
 
 ! THE FINALS Wiki
-$site=www.thefinals.wiki,boost
+$site=www.thefinals.wiki
 $site=the-finals.fandom.com,discard
 
 ! The Matchless Kungfu Wiki
-$site=thematchlesskungfu.wiki.gg,boost
+$site=thematchlesskungfu.wiki.gg
 $site=the-matchless-kungfu.fandom.com,discard
 
 ! The Wandering Inn Wiki
-$site=wiki.wanderinginn.com,boost
+$site=wiki.wanderinginn.com
 $site=thewanderinginn.fandom.com,discard
 
 ! The World Ends with You Wiki
-$site=twewy.wiki,boost
+$site=twewy.wiki
 $site=twewy.fandom.com,discard
 
 ! This Might Be A Wiki
-$site=tmbw.net,boost
+$site=tmbw.net
 $site=theymightbegiants.fandom.com,discard
 
 ! Thorium Mod Wiki
-$site=thoriummod.wiki.gg,boost
+$site=thoriummod.wiki.gg
 $site=thoriummod.fandom.com,discard
 
 ! Thunderbolt Fantasy Wiki
-$site=thunderboltfantasywiki.miraheze.org,boost
+$site=thunderboltfantasywiki.miraheze.org
 $site=thunderbolt-fantasy.fandom.com,discard
 
 ! Timberborn Wiki
-$site=timberborn.wiki.gg,boost
+$site=timberborn.wiki.gg
 $site=timberborn.fandom.com,discard
 
 ! Timespinner Wiki
-$site=timespinnerwiki.com,boost
+$site=timespinnerwiki.com
 $site=timespinner.fandom.com,discard
 
 ! Tin Can Wiki
-$site=tincan.wiki.gg,boost
+$site=tincan.wiki.gg
 $site=tincan.fandom.com,discard
 
 ! Tiny Rogues Wiki
-$site=roguepedia.net,boost
+$site=roguepedia.net
 $site=tiny-rogues.fandom.com,discard
 
 ! Titanfall Wiki
-$site=titanfall.wiki.gg,boost
+$site=titanfall.wiki.gg
 $site=titanfall.fandom.com,discard
 
 ! WikiRaider
-$site=www.wikiraider.com,boost
+$site=www.wikiraider.com
 $site=tombraider.fandom.com,discard
 
 ! Toontown Wiki
-$site=toontown.wiki.gg,boost
+$site=toontown.wiki.gg
 $site=toontown.fandom.com,discard
 
 ! Toontown Corporate Clash Wiki
-$site=corporateclash.wiki.gg,boost
+$site=corporateclash.wiki.gg
 $site=toontown-corporate-clash.fandom.com,discard
 
 ! Toontown Rewritten Wiki
-$site=toontownrewritten.wiki,boost
+$site=toontownrewritten.wiki
 $site=toontownrewritten.fandom.com,discard
 
 ! Torn Wiki
-$site=wiki.torn.com,boost
+$site=wiki.torn.com
 $site=torncity.fandom.com,discard
 
 ! Touhou Wiki
-$site=en.touhouwiki.net,boost
+$site=en.touhouwiki.net
 $site=touhou.fandom.com,discard
 
 ! TowerClimb Wiki
-$site=towerclimb.wiki.gg,boost
+$site=towerclimb.wiki.gg
 $site=towerclimb.fandom.com,discard
 
 ! TowerFall Wiki
-$site=towerfall.wiki.gg,boost
+$site=towerfall.wiki.gg
 $site=towerfall.fandom.com,discard
 
 ! Tower Unite Wiki
-$site=towerunite.wiki.gg,boost
+$site=towerunite.wiki.gg
 $site=tower-unite.fandom.com,discard
 
 ! Transformers Wiki
-$site=tfwiki.net,boost
+$site=tfwiki.net
 $site=transformers.fandom.com,discard
 
 ! Traveller RPG Wiki
-$site=wiki.travellerrpg.com,boost
+$site=wiki.travellerrpg.com
 $site=traveller-rpg.fandom.com,discard
 
 ! Treasure Adventure World Wiki
-$site=treasureadventurewiki.com,boost
+$site=treasureadventurewiki.com
 $site=treasureadventuregame.fandom.com,discard
 
 ! Truck Simulator Wiki
-$site=trucksimulator.wiki.gg,boost
+$site=trucksimulator.wiki.gg
 $site=truck-simulator.fandom.com,discard
 
 ! Two Worlds Wiki
-$site=twoworldswiki.com,boost
+$site=twoworldswiki.com
 $site=twoworlds.fandom.com,discard
 $site=tw2.fandom.com,discard
 
 ! U.B. Funkeys Wiki
-$site=ubfunkeys.wiki,boost
+$site=ubfunkeys.wiki
 $site=ubfunkeys.fandom.com,discard
 
 ! UFO 50 Wiki
-$site=ufo50.miraheze.org,boost
+$site=ufo50.miraheze.org
 $site=ufo50.fandom.com,discard
 
 ! UOGuide
-$site=www.uoguide.com,boost
+$site=www.uoguide.com
 $site=ultimaonline.fandom.com,discard
 
 ! ULTRAWIKI
-$site=ultrakill.wiki.gg,boost
+$site=ultrakill.wiki.gg
 $site=ultrakill.fandom.com,discard
 
 ! Umamusume Wiki
-$site=umamusu.wiki,boost
+$site=umamusu.wiki
 $site=umamusume.fandom.com,discard
 
 ! Uncompromising Mode Wiki
-$site=uncompromisingmode.wiki.gg,boost
+$site=uncompromisingmode.wiki.gg
 $site=uncompromising-mode.fandom.com,discard
 
 ! UnderMine Wiki
-$site=undermine.wiki.gg,boost
+$site=undermine.wiki.gg
 $site=undermine.fandom.com,discard
 
 ! Undertale Yellow Wiki
-$site=undertaleyellow.wiki.gg,boost
+$site=undertaleyellow.wiki.gg
 $site=undertaleyellow.fandom.com,discard
 
 ! Uneven Dream Wiki
-$site=yume.wiki,boost
+$site=yume.wiki
 $site=outotsuyume.fandom.com,discard
 
 ! Unnamed Space Idle Wiki
-$site=usi.game-vault.net,boost
+$site=usi.game-vault.net
 $site=usi.fandom.com,discard
 
 ! UnReal World Wiki
-$site=www.unrealworld.fi,boost
+$site=www.unrealworld.fi
 $site=unrealworld.fandom.com,discard
 
 ! Untitled Tag Game Wiki
-$site=utg.miraheze.org,boost
+$site=utg.miraheze.org
 $site=utg.fandom.com,discard
 
 ! Unturned Wiki
-$site=unturned.wiki.gg,boost
+$site=unturned.wiki.gg
 $site=unturned.fandom.com,discard
 
 ! Usagi Shima Wiki
-$site=usagishima.miraheze.org,boost
+$site=usagishima.miraheze.org
 $site=usagishima.fandom.com,discard
 
 ! Uta no Prince-sama Wiki
-$site=utanoprincesama.miraheze.org,boost
+$site=utanoprincesama.miraheze.org
 $site=utanoprincesama.fandom.com,discard
 
 ! Vampire Survivors Wiki
-$site=vampire.survivors.wiki,boost
+$site=vampire.survivors.wiki
 $site=vampire-survivors.fandom.com,discard
 
 ! vaporwave.wiki
-$site=vaporwave.wiki,boost
+$site=vaporwave.wiki
 $site=vaporwave.fandom.com,discard
 
 ! Vectorio Wiki
-$site=vectorio.wiki.gg,boost
+$site=vectorio.wiki.gg
 $site=vectorio.fandom.com,discard
 
 ! Vendetta Online Wiki
-$site=vo-wiki.com,boost
+$site=vo-wiki.com
 $site=vendetta-online.fandom.com,discard
 
 ! Voices of the Void Wiki
-$site=voicesofthevoid.wiki.gg,boost
+$site=voicesofthevoid.wiki.gg
 $site=votv.fandom.com,discard
 
 ! The Void Rains Upon Her Heart Wiki
-$site=tvruhh.wiki.gg,boost
+$site=tvruhh.wiki.gg
 $site=the-void-rains-upon-her-heart.fandom.com,discard
 
 ! Voidscape Wiki
-$site=voidscape.tamaized.com,boost
+$site=voidscape.tamaized.com
 $site=voidscape.fandom.com,discard
 
 ! Volcano Princess Wiki
-$site=volcanoprincess.miraheze.org,boost
+$site=volcanoprincess.miraheze.org
 $site=volcano-princess.fandom.com,discard
 
 ! VTOL VR Wiki
-$site=vtolvr.wiki.gg,boost
+$site=vtolvr.wiki.gg
 $site=vtol-vr.fandom.com,discard
 
 ! Viki
-$site=vsix.dev,boost
+$site=vsix.dev
 $site=vvvvvv.fandom.com,discard
 $site=spacestation.fandom.com,discard
 
 ! Vylet Pony Wiki
-$site=vylet.wiki,boost
+$site=vylet.wiki
 $site=vylet-pony.fandom.com,discard
 
 ! Wakfu Wiki
-$site=wakfu.wiki.gg,boost
+$site=wakfu.wiki.gg
 $site=wakfu.fandom.com,discard
 $site=wakfu.neoseeker.com,discard
 
 ! Warcraft Wiki
-$site=warcraft.wiki.gg,boost
+$site=warcraft.wiki.gg
 $site=wowpedia.fandom.com,discard
 $site=wowwiki-archive.fandom.com,discard
 $site=warcraft.neoseeker.com,discard
 $site=wow.neoseeker.com,discard
 
 ! Warframe Wiki
-$site=wiki.warframe.com,boost
+$site=wiki.warframe.com
 $site=warframe.fandom.com,discard
 
 ! Wargroove Wiki
-$site=wargroovewiki.com,boost
+$site=wargroovewiki.com
 $site=wargroove.fandom.com,discard
 
 ! Lexicanum
-$site=wh40k.lexicanum.com,boost
+$site=wh40k.lexicanum.com
 $site=warhammer40k.fandom.com,discard
 $site=warhammer.neoseeker.com,discard
 
 ! WEBFISHING Wiki
-$site=webfishing.wiki.gg,boost
+$site=webfishing.wiki.gg
 $site=webfishing.fandom.com,discard
 
 ! Weezerpedia
-$site=www.weezerpedia.com,boost
+$site=www.weezerpedia.com
 $site=weezer.fandom.com,discard
 
 ! The Battle for Wesnoth Wiki
-$site=wiki.wesnoth.org,boost
+$site=wiki.wesnoth.org
 $site=wesnoth.fandom.com,discard
 
 ! When They Cry Wiki
-$site=wiki.whentheycry.org,boost
+$site=wiki.whentheycry.org
 $site=whentheycry.fandom.com,discard
 
 ! Wildfrost Wiki
-$site=wildfrostwiki.com,boost
+$site=wildfrostwiki.com
 $site=wildfrost.fandom.com,discard
 
 ! Will You Snail Wiki
-$site=willyousnail.wiki.gg,boost
+$site=willyousnail.wiki.gg
 $site=willyousnail.fandom.com,discard
 
 ! Windowkill Wiki
-$site=windowkill.wiki.gg,boost
+$site=windowkill.wiki.gg
 $site=windowkill.fandom.com,discard
 
 ! Witchfire Wiki
-$site=witchfire.wiki.gg,boost
+$site=witchfire.wiki.gg
 $site=witchfire.fandom.com,discard
 
 ! Witch Hat Atelier Wiki
-$site=witchhatatelier.telepedia.net,boost
+$site=witchhatatelier.telepedia.net
 $site=witch-hat-atelier.fandom.com,discard
 
 ! Wizard101 Wiki
-/wiki$site=wiki.wizard101central.com,boost
+/wiki$site=wiki.wizard101central.com
 $site=wizard101.fandom.com,discard
 
 ! Wizardry Wiki
-$site=wizardry.wiki.gg,boost
+$site=wizardry.wiki.gg
 $site=wizardry.fandom.com,discard
 
 ! World of Babel Wiki
-$site=worldofbabel.wiki.gg,boost
+$site=worldofbabel.wiki.gg
 $site=world-of-babel.fandom.com,discard
 
 ! World Trigger Wiki
-$site=worldtriggerwiki.com,boost
+$site=worldtriggerwiki.com
 $site=worldtrigger.fandom.com,discard
 
 ! Worship Wiki
-$site=worship.wiki.gg,boost
+$site=worship.wiki.gg
 $site=worshipcrg.fandom.com,discard
 
 ! Wesley's Roguelike Dungeons Wiki
-$site=wesleysroguelikedungeons.wiki.gg,boost
+$site=wesleysroguelikedungeons.wiki.gg
 $site=wrdminecraft.fandom.com,discard
 
 ! Wyvern Source
-$site=wiki.wyvernsource.com,boost
+$site=wiki.wyvernsource.com
 $site=wvyernrpg.fandom.com,discard
 
 ! Wynncraft Wiki
-$site=wynncraft.wiki.gg,boost
+$site=wynncraft.wiki.gg
 $site=wynncraft.fandom.com,discard
 
 ! Xenharmonic Wiki
-$site=en.xen.wiki,boost
+$site=en.xen.wiki
 $site=xenharmonic.fandom.com,discard
 
 ! explain xkcd
-$site=www.explainxkcd.com,boost
+$site=www.explainxkcd.com
 $site=xkcd.fandom.com,discard
 
 ! ONISM1999 (YIIK Wiki)
-$site=onism1999.com,boost
+$site=onism1999.com
 $site=yiikapostmodernrpg.fandom.com,discard
 
 ! Yugipedia
-$site=yugipedia.com,boost
+$site=yugipedia.com
 $site=yugioh.fandom.com,discard
 $site=yugioh-duel-monsters.fandom.com,discard
 $site=yugioh-5ds.fandom.com,discard
@@ -2252,507 +2254,507 @@ $site=yugioh-sevens.fandom.com,discard
 $site=yugioh.neoseeker.com,discard
 
 ! Yume 2kki Wiki
-$site=yume.wiki,boost
+$site=yume.wiki
 $site=yume2kki.fandom.com,discard
 
 ! Yume Nikki Wiki
-$site=yume.wiki,boost
+$site=yume.wiki
 $site=yumenikki.fandom.com,discard
 
 ! Yume Nikki Fangames Wiki
-$site=ynfg.yume.wiki,boost
+$site=ynfg.yume.wiki
 $site=yumenikkifg.fandom.com,discard
 
 ! Zelda Wiki
-$site=zeldawiki.wiki,boost
+$site=zeldawiki.wiki
 $site=zelda.fandom.com,discard
 $site=zelda-archive.fandom.com,discard
 $site=zelda.neoseeker.com,discard
 $site=zeldatearsofthekingdom.wiki.fextralife.com,discard
 
 ! ZeroRanger Wiki
-$site=zeroranger.miraheze.org,boost
+$site=zeroranger.miraheze.org
 $site=zeroranger.fandom.com,discard
 
 ! [ES] Spanish / Español
 
 ! amiibopedia
-$site=es.amiibopedia.com,boost
+$site=es.amiibopedia.com
 /es$site=amiibo.fandom.com,discard
 
 ! Animal Crossing Enciclopedia
-$site=animalcrossing.wikidex.net,boost
+$site=animalcrossing.wikidex.net
 /es$site=animalcrossing.fandom.com,discard
 
 ! ARK Wiki
-/es$site=ark.wiki.gg,boost
+/es$site=ark.wiki.gg
 /es$site=ark.fandom.com,discard
 
 ! Wiki Calamity Mod Oficial
-/es$site=calamitymod.wiki.gg,boost
+/es$site=calamitymod.wiki.gg
 /es$site=calamitymod.fandom.com,discard
 
 ! Wiki Clash of Clans
-/es$site=clashofclans.wiki.gg,boost
+/es$site=clashofclans.wiki.gg
 /es$site=clashofclans.fandom.com,discard
 
 ! Coromon Wiki
-/es$site=coromon.wiki.gg,boost
+/es$site=coromon.wiki.gg
 /es$site=coromon.fandom.com,discard
 
 ! Deep Rock Galactic Wiki
-/es$site=deeprockgalactic.wiki.gg,boost
+/es$site=deeprockgalactic.wiki.gg
 /es$site=deeprockgalactic.fandom.com,discard
 
 ! Combine OverWiki
-$site=combineoverwiki.net,boost
+$site=combineoverwiki.net
 /es$site=halflife.fandom.com,discard
 
 ! Minecraft Wiki
-$site=es.minecraft.wiki,boost
+$site=es.minecraft.wiki
 /es$site=minecraft.fandom.com,discard
 
 ! WikiDex
-$site=www.wikidex.net,boost
+$site=www.wikidex.net
 /es$site=pokemon.fandom.com,discard
 
 ! Wiki South Park
-/es$site=southpark.wiki.gg,boost
+/es$site=southpark.wiki.gg
 /es$site=southpark.fandom.com,discard
 
 ! Inkipedia ES
-$site=es.splatoonwiki.org,boost
+$site=es.splatoonwiki.org
 /es$site=splatoon.fandom.com,discard
 
 ! Stardew Valley Wiki
-$site=es.stardewvalleywiki.com,boost
+$site=es.stardewvalleywiki.com
 /es$site=stardewvalley.fandom.com,discard
 
 ! SmashPedia
-$site=es.ssbwiki.com,boost
+$site=es.ssbwiki.com
 /es$site=supersmashbros.fandom.com,discard
 
 ! Team Fortress Wiki
-$site=wiki.teamfortress.com,boost
+$site=wiki.teamfortress.com
 /es$site=team-fortress.fandom.com,discard
 
 ! Terraria Wiki
-/es$site=terraria.wiki.gg,boost
+/es$site=terraria.wiki.gg
 /es$site=terraria.fandom.com,discard
 
 ! Touhou Wiki
-$site=es.touhouwiki.net,boost
+$site=es.touhouwiki.net
 /es$site=touhou.fandom.com,discard
 
 ! [FI] Finnish / suomi
 
 ! Portal Wiki
-$site=theportalwiki.com,boost
+$site=theportalwiki.com
 /fi$site=portal.fandom.com,discard
 
 ! Jedipedia
-$site=www.jedipedia.fi,boost
+$site=www.jedipedia.fi
 /fi$site=starwars.fandom.com,discard
 
 ! Junawiki
-$site=junat.shoutwiki.com,boost
+$site=junat.shoutwiki.com
 /fi$site=junapedia.fandom.com,discard
 
 ! [FR] French / Français
 
 ! Arcane Wiki
-$site=arcanefr.miraheze.org,boost
+$site=arcanefr.miraheze.org
 /fr$site=wiki-arcane.fandom.com,discard
 
 ! ARK Wiki
-/fr$site=ark.wiki.gg,boost
+/fr$site=ark.wiki.gg
 /fr$site=ark.fandom.com,discard
 
 ! Battlestar Wiki
-$site=fr.battlestarwiki.ddns.net,boost
+$site=fr.battlestarwiki.ddns.net
 /fr$site=galactica.fandom.com,discard
 
 ! The Binding Of Isaac: Rebirth Wiki
-/fr$site=bindingofisaacrebirth.wiki.gg,boost
+/fr$site=bindingofisaacrebirth.wiki.gg
 /fr$site=bindingofisaacrebirth.fandom.com,discard
 
 ! Clash of Clans Wiki
-$site=wiki.clashofclans.fr,boost
+$site=wiki.clashofclans.fr
 /fr$site=clashofclans.fandom.com,discard
 
 ! Dead by Daylight Wiki
-/fr$site=deadbydaylight.wiki.gg,boost
+/fr$site=deadbydaylight.wiki.gg
 /fr$site=deadbydaylight.fandom.com,discard
 
 ! Dofus Wiki
-$site=wiki-dofus.eu,boost
+$site=wiki-dofus.eu
 /fr$site=dofuswiki.fandom.com,discard
 
 ! Don't Starve Wiki
-/fr$site=dontstarve.wiki.gg,boost
+/fr$site=dontstarve.wiki.gg
 /fr$site=dont-starve.fandom.com,discard
 
 ! Dragon Quest Wiki
-$site=wikidragonquest.fr,boost
+$site=wikidragonquest.fr
 /fr$site=dragonquest.fandom.com,discard
 
 ! Shin Wiki Evangelion
-$site=shinwikievangelionfr.miraheze.org,boost
+$site=shinwikievangelionfr.miraheze.org
 /fr$site=evangelion.fandom.com,discard
 
 ! Les Archives de Vault-Tec
-$site=fallout-wiki.com,boost
+$site=fallout-wiki.com
 /fr$site=fallout.fandom.com,discard
 
 ! Forge of Empires Wiki
-$site=fr.wiki.forgeofempires.com,boost
+$site=fr.wiki.forgeofempires.com
 /fr$site=forgeofempires.fandom.com,discard
 
 ! La Garde de Nuit Wiki
-/wiki$site=www.lagardedenuit.com,boost
+/wiki$site=www.lagardedenuit.com
 /fr$site=gameofthrones.fandom.com,discard
 
 ! Grepolis Wiki
-$site=wiki.fr.grepolis.com,boost
+$site=wiki.fr.grepolis.com
 /fr$site=grepolis.fandom.com,discard
 
 ! GWiki
-$site=www.gwiki.fr,boost
+$site=www.gwiki.fr
 /fr$site=guildwars.fandom.com,discard
 
 ! Gundam FR Wiki
-$site=gundamfr.miraheze.org,boost
+$site=gundamfr.miraheze.org
 /fr$site=gundam.fandom.com,discard
 
 ! WikiHalo
-$site=wiki.halo.fr,boost
+$site=wiki.halo.fr
 /fr$site=halo.fandom.com,discard
 
 ! Kerbal Space Program Wiki
-$site=wiki.kerbalspaceprogram.com,boost
+$site=wiki.kerbalspaceprogram.com
 /fr$site=kerbalspaceprogram.fandom.com,discard
 
 ! Encyclopédie de la Roue du Temps
-$site=encyclo.rouedutemps.fr,boost
+$site=encyclo.rouedutemps.fr
 /fr$site=la-roue-du-temps.fandom.com,discard
 
 ! Lethal Company Wiki
-$site=lethal.miraheze.org,boost
+$site=lethal.miraheze.org
 /fr$site=lethal-company.fandom.com,discard
 
 ! Metin2 Wiki
-$site=fr-wiki.metin2.gameforge.com,boost
+$site=fr-wiki.metin2.gameforge.com
 /fr$site=metin2.fandom.com,discard
 
 ! Minecraft Wiki
-$site=fr.minecraft.wiki,boost
+$site=fr.minecraft.wiki
 /fr$site=minecraft.fandom.com,discard
 /fr$site=minecraft-archive.fandom.com,discard
 
 ! Poképédia
-$site=www.pokepedia.fr,boost
+$site=www.pokepedia.fr
 /fr$site=pokemon.fandom.com,discard
 
 ! Satisfactory Wiki
-/fr$site=satisfactory.wiki.gg,boost
+/fr$site=satisfactory.wiki.gg
 /fr$site=satisfactory.fandom.com,discard
 
 ! Inkipédia
-$site=fr.splatoonwiki.org,boost
+$site=fr.splatoonwiki.org
 /fr$site=splatoon.fandom.com,discard
 
 ! Stardew Valley Wiki
-$site=fr.stardewvalleywiki.com,boost
+$site=fr.stardewvalleywiki.com
 /fr$site=stardew-valley-fr.fandom.com,discard
 
 ! Temtem Wiki
-/fr$site=temtem.wiki.gg,boost
+/fr$site=temtem.wiki.gg
 /fr$site=temtem.fandom.com,discard
 
 ! Terraria Wiki
-/fr$site=terraria.wiki.gg,boost
+/fr$site=terraria.wiki.gg
 /fr$site=terraria.fandom.com,discard
 
 ! Touhou Wiki
-$site=fr.touhouwiki.net,boost
+$site=fr.touhouwiki.net
 /fr$site=touhou.fandom.com,discard
 
 ! Lexicanum
-$site=wh40k-fr.lexicanum.com,boost
+$site=wh40k-fr.lexicanum.com
 /fr$site=warhammer40k.fandom.com,discard
 
 ! [HU] Hungarian / Magyar
 
 ! Terraria Wiki
-/hu$site=terraria.wiki.gg,boost
+/hu$site=terraria.wiki.gg
 /hu$site=terraria.fandom.com,discard
 
 ! [IT] Italian / Italiano
 
 ! ARK Wiki
-/it$site=ark.wiki.gg,boost
+/it$site=ark.wiki.gg
 /it$site=ark.fandom.com,discard
 
 ! WikiBound
-$site=it.wikibound.info,boost
+$site=it.wikibound.info
 /it$site=earthbound.fandom.com,discard
 
 ! Super Mario Wiki
-$site=www.mariowiki.it,boost
+$site=www.mariowiki.it
 /it$site=mario.fandom.com,discard
 
 ! Minecraft Wiki
-$site=it.minecraft.wiki,boost
+$site=it.minecraft.wiki
 /it$site=minecraft.fandom.com,discard
 
 ! Pokémon Central Wiki
-$site=wiki.pokemoncentral.it,boost
+$site=wiki.pokemoncentral.it
 /it$site=pokemon.fandom.com,discard
 
 ! WikiTrek
-$site=wikitrek.org,boost
+$site=wikitrek.org
 /it$site=memory-alpha.fandom.com,discard
 
 ! [JA] Japanese / 日本語
 
 ! ACES WIKI
-/ja$site=acecombat.wiki.gg,boost
+/ja$site=acecombat.wiki.gg
 /ja$site=acecombat.fandom.com,discard
 
 ! ARK Wiki
-/ja$site=ark.wiki.gg,boost
+/ja$site=ark.wiki.gg
 /ja$site=ark.fandom.com,discard
 
 ! Friday Night Funkin Wiki
-/ja$site=fridaynightfunkin.wiki.gg,boost
+/ja$site=fridaynightfunkin.wiki.gg
 /ja$site=fridaynightfunkin.fandom.com,discard
 
 ! Minecraft Wiki
-$site=ja.minecraft.wiki,boost
+$site=ja.minecraft.wiki
 /ja$site=minecraft.fandom.com,discard
 
 ! Noita Wiki
-/ja$site=noita.wiki.gg,boost
+/ja$site=noita.wiki.gg
 /ja$site=noita.fandom.com,discard
 
 ! ポケモンWiki
-$site=wiki.ポケモン.com,boost
+$site=wiki.ポケモン.com
 /ja$site=pokemon.fandom.com,discard
 
 ! [KO] Korean / 한국어
 
 ! Minecraft Wiki
-$site=ko.minecraft.wiki,boost
+$site=ko.minecraft.wiki
 /ko$site=minecraft.fandom.com,discard
 
 ! Terraria Wiki
-/ko$site=terraria.wiki.gg,boost
+/ko$site=terraria.wiki.gg
 /ko$site=terraria.fandom.com,discard
 
 ! [LZH] Classical Chinese / 文言
 
 ! Minecraft Wiki
-$site=lzh.minecraft.wiki,boost
+$site=lzh.minecraft.wiki
 /lzh$site=minecraft.fandom.com,discard
 
 ! [NL] Dutch / Nederlands
 
 ! Minecraft Wiki
-$site=nl.minecraft.wiki,boost
+$site=nl.minecraft.wiki
 /nl$site=minecraft.fandom.com,discard
 
 ! [PL] Polish / Polski
 
 ! ARK Wiki
-/pl$site=ark.wiki.gg,boost
+/pl$site=ark.wiki.gg
 /pl$site=ark.fandom.com,discard
 
 ! Combine OverWiki
-$site=combineoverwiki.net,boost
+$site=combineoverwiki.net
 /pl$site=half-life.fandom.com,discard
 
 ! Minecraft Wiki Polska
-$site=minewiki.pl,boost
+$site=minewiki.pl
 /pl$site=minecraft.fandom.com,discard
 
 ! RayWiki
-$site=raymanpc.com,boost
+$site=raymanpc.com
 /pl$site=rayman.fandom.com,discard
 
 ! Team Fortress Wiki
-$site=wiki.teamfortress.com,boost
+$site=wiki.teamfortress.com
 /pl$site=teamfortress.fandom.com,discard
 
 ! Terraria Wiki
-/pl$site=terraria.wiki.gg,boost
+/pl$site=terraria.wiki.gg
 /pl$site=terraria.fandom.com,discard
 
 ! Touhou Wiki
-$site=pl.touhouwiki.net,boost
+$site=pl.touhouwiki.net
 /pl$site=touhou.fandom.com,discard
 
 ! [PT] Portuguese / Português
 
 ! Ace Combat Wiki
-/pt-br$site=acecombat.wiki.gg,boost
+/pt-br$site=acecombat.wiki.gg
 /pt-br$site=acecombat.fandom.com,discard
 
 ! ARK Wiki
-/pt-br$site=ark.wiki.gg,boost
+/pt-br$site=ark.wiki.gg
 /pt-br$site=ark.fandom.com,discard
 
 ! Gelo e Fogo Wiki
-$site=wiki.geloefogo.com,boost
+$site=wiki.geloefogo.com
 /pt-br$site=gameofthrones.fandom.com,discard
 
 ! Minecraft Wiki
-$site=pt.minecraft.wiki,boost
+$site=pt.minecraft.wiki
 /pt$site=minecraft.fandom.com,discard
 
 ! Runescape Wiki
-$site=pt.runescape.wiki,boost
+$site=pt.runescape.wiki
 /pt$site=runescape.fandom.com,discard
 
 ! Team Fortress Wiki
-$site=wiki.teamfortress.com,boost
+$site=wiki.teamfortress.com
 /pt-br$site=team-fortress.fandom.com,discard
 
 ! Terraria Wiki
-/pt$site=terraria.wiki.gg,boost
+/pt$site=terraria.wiki.gg
 /pt$site=terraria.fandom.com,discard
 
 ! Unofficial Elder Scrolls Pages
-$site=pt.uesp.net,boost
+$site=pt.uesp.net
 /pt$site=elderscrolls.fandom.com,discard
 
 ! [RU] Russian / Русский
 
 ! ARK Wiki
-/ru$site=ark.wiki.gg,boost
+/ru$site=ark.wiki.gg
 /ru$site=ark.fandom.com,discard
 
 ! Calamity Mod Wiki
-/ru$site=calamitymod.wiki.gg,boost
+/ru$site=calamitymod.wiki.gg
 /ru$site=terraria-calamity-mod.fandom.com,discard
 
 ! Combine OverWiki
-$site=combineoverwiki.net,boost
+$site=combineoverwiki.net
 /ru$site=halflife.fandom.com,discard
 
 ! Lethal Company Wiki
-$site=lethal.miraheze.org,boost
+$site=lethal.miraheze.org
 /ru$site=lethal-company.fandom.com,discard
 
 ! Minecraft Wiki
-$site=ru.minecraft.wiki,boost
+$site=ru.minecraft.wiki
 /ru$site=minecraft.fandom.com,discard
 
 ! Portal Wiki
-$site=theportalwiki.com,boost
+$site=theportalwiki.com
 /ru$site=portal.fandom.com,discard
 
 ! Rain World Wiki
-$site=rainworld.miraheze.org,boost
+$site=rainworld.miraheze.org
 /ru$site=rainworld.fandom.com,discard
 
 ! SCP: Secret Laboratory Wiki
-$site=ru.scpslgame.com,boost
+$site=ru.scpslgame.com
 /ru$site=scp-secret-laboratory.fandom.com,discard
 
 ! Terraria Wiki
-/ru$site=terraria.wiki.gg,boost
+/ru$site=terraria.wiki.gg
 /ru$site=terraria.fandom.com,discard
 
 ! Touhou Wiki
-$site=ru.touhouwiki.net,boost
+$site=ru.touhouwiki.net
 /ru$site=touhou.fandom.com,discard
 
 ! [SV] Swedish / Svenska
 
 ! Svenska Wikisimpsons
-$site=sv.simpsonswiki.com,boost
+$site=sv.simpsonswiki.com
 /sv$site=simpsons.fandom.com,discard
 
 ! [TH] Thai / ไทย
 
 ! ARK Wiki
-/th$site=ark.wiki.gg,boost
+/th$site=ark.wiki.gg
 /th$site=ark.fandom.com,discard
 
 ! Minecraft Wiki
-$site=th.minecraft.wiki,boost
+$site=th.minecraft.wiki
 /th$site=minecraft.fandom.com,discard
 
 ! [TOK] Toki Pona / toki pona
 
 ! Wikipesija
-$site=wikipesija.org,boost
+$site=wikipesija.org
 $site=tokipona.fandom.com,discard
 
 ! [TR] Turkish / Türkçe
 
 ! Sithpedi
-$site=starwarsturkiye.com,boost
+$site=starwarsturkiye.com
 /tr$site=starwars.fandom.com,discard
 
 ! [UK] Ukrainian / Українська
 
 ! Minecraft Wiki
-$site=uk.minecraft.wiki,boost
+$site=uk.minecraft.wiki
 /uk$site=minecraft.fandom.com,discard
 
 ! Terraria Wiki
-/uk$site=terraria.wiki.gg,boost
+/uk$site=terraria.wiki.gg
 /uk$site=terraria.fandom.com,discard
 
 ! [ZH] Chinese / 中文
 
 ! 空戰奇兵 (Ace Combat) Wiki
-/zh$site=acecombat.wiki.gg,boost
+/zh$site=acecombat.wiki.gg
 /zh$site=acecombat.fandom.com,discard
 
 ! Calamity Mod Wiki
-/zh$site=calamitymod.wiki.gg,boost
+/zh$site=calamitymod.wiki.gg
 /zh$site=terraria-calamity-mod.fandom.com,discard
 
 ! Cookie☆Wiki
-$site=cookie.wiki,boost
+$site=cookie.wiki
 /zh$site=cookie.fandom.com,discard
 
 ! Tardis (Doctor Who) Wiki
-$site=zh.tardis.wiki,boost
+$site=zh.tardis.wiki
 /zh$site=tardis.fandom.com,discard
 
 ! Friday Night Funkin Wiki
-/zh$site=fridaynightfunkin.wiki.gg,boost
+/zh$site=fridaynightfunkin.wiki.gg
 /zh$site=fridaynightfunkin.fandom.com,discard
 
 ! Combine OverWiki
-$site=combineoverwiki.net,boost
+$site=combineoverwiki.net
 $site=hlforever.fandom.com,discard
 
 ! Minecraft Wiki
-$site=zh.minecraft.wiki,boost
+$site=zh.minecraft.wiki
 /zh$site=minecraft.fandom.com,discard
 /zh$site=minecraft-archive.fandom.com,discard
 
 ! Noita Wiki
-/zh$site=noita.wiki.gg,boost
+/zh$site=noita.wiki.gg
 /zh$site=noita.fandom.com,discard
 
 ! Plants vs. Zombies Wiki
-/zh$site=plantsvszombies.wiki.gg,boost
+/zh$site=plantsvszombies.wiki.gg
 /zh$site=pvz.fandom.com,discard
 
 ! 52Poké Wiki
-$site=wiki.52poke.com,boost
+$site=wiki.52poke.com
 /zh$site=pokemon.fandom.com,discard
 /zh-hk$site=pokemon.fandom.com,discard
 
 ! Terraria Wiki
-/zh$site=terraria.wiki.gg,boost
+/zh$site=terraria.wiki.gg
 /zh$site=terraria.fandom.com,discard
 
 ! Touhou Wiki
-$site=zh.touhouwiki.net,boost
+$site=zh.touhouwiki.net
 /zh$site=touhou.fandom.com,discard

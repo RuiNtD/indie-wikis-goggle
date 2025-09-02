@@ -1,8 +1,8 @@
 ! name: Indie Wikis
 ! description: Brave Goggle to prioritize indie wikis (Based on Indie Wiki Buddy v3.13.2)
-! public: false
+! public: true
 ! author: RuiNtD
-! homepage: https://github.com/RuiNtD/indie-wiki-goggle
+! homepage: https://github.com/RuiNtD/indie-wikis-goggle
 ! avatar: #005799
 ! license: MIT
 

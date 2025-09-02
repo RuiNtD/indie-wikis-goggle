@@ -40,7 +40,7 @@ const langs = await getLangs();
 const header = dedent`
 ! name: Indie Wikis
 ! description: Brave Goggle to prioritize indie wikis (Based on Indie Wiki Buddy ${iwbVersion})
-! public: false
+! public: true
 ! author: RuiNtD
 ! homepage: https://github.com/RuiNtD/indie-wikis-goggle
 ! avatar: #005799

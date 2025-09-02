@@ -29,6 +29,13 @@ async function getLangs() {
   );
 }
 
+function formatBaseUrl(base: string) {
+  const parts = base.split("/");
+  if (parts.length == 1) return `$site=${base}`;
+  const path = parts.slice(1).join("/");
+  return `/${path}$site=${parts[0]}`;
+}
+
 const langs = await getLangs();
 const header = dedent`
 ! name: Indie Wikis
@@ -42,10 +49,12 @@ const rules = await pMap(Object.entries(langs), async ([lang, langName]) => {
   const rules = (await getSites(lang)).map((site) => {
     return [
       `! ${site.destination}`,
-      `$boost,site=${site.destination_base_url}`,
-      ...site.origins.map((v) => `$discard,site=${v.origin_base_url}`),
+      `${formatBaseUrl(site.destination_base_url)},boost`,
+      ...site.origins.map((v) => `${formatBaseUrl(v.origin_base_url)},discard`),
     ].join("\n");
   });
   return `${header}\n\n${rules.join("\n\n")}`;
 });
-await $.path("out.goggle").writeText([header, ...rules].join("\n\n") + "\n");
+await $.path("indie_wikis.goggles").writeText(
+  [header, ...rules].join("\n\n") + "\n"
+);

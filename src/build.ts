@@ -57,6 +57,6 @@ const rules = await pMap(Object.entries(langs), async ([lang, langName]) => {
   );
   return `${header}\n\n${rules.join("\n\n")}`;
 });
-await $.path("indie_wikis.goggles").writeText(
+await $.path("out/indie_wikis.goggles").writeText(
   [header, ...rules].join("\n\n") + "\n"
 );

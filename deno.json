@@ -1,4 +1,13 @@
 {
+  "tasks": {
+    "build": "deno run -P src/build.ts"
+  },
+  "permissions": {
+    "default": {
+      "write": ["out/indie_wikis.goggles"],
+      "net": ["raw.githubusercontent.com"]
+    }
+  },
   "imports": {
     "@david/dax": "jsr:@david/dax@^0.43.2",
     "dedent": "npm:dedent@^1.6.0",

@@ -4,7 +4,7 @@
   },
   "permissions": {
     "default": {
-      "write": ["out", "out/indie_wikis.goggles"],
+      "write": ["out"],
       "net": ["raw.githubusercontent.com"]
     }
   },

@@ -1,16 +1,24 @@
 {
   "tasks": {
-    "build": "deno run -P src/build.ts"
+    "build": "deno run -P src/build.ts",
+    "prettier": "deno run -P=prettier npm:prettier@^3.6.2"
   },
   "permissions": {
     "default": {
       "write": ["out"],
       "net": ["raw.githubusercontent.com"]
+    },
+    "prettier": {
+      "env": true,
+      "sys": true,
+      "read": true,
+      "write": ["."]
     }
   },
+  "unstable": ["raw-imports"],
   "imports": {
     "@david/dax": "jsr:@david/dax@^0.43.2",
-    "dedent": "npm:dedent@^1.6.0",
+    "handlebars": "npm:handlebars@^4.7.8",
     "p-map": "npm:p-map@^7.0.3",
     "zod": "npm:zod@^4.1.5"
   }

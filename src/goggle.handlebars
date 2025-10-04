@@ -1,0 +1,21 @@
+! name: Indie Wikis
+! description: Prioritizes indie wikis (Based on Indie Wiki Buddy {{iwbVersion}})
+! public: true
+! author: RuiNtD
+! homepage: https://github.com/RuiNtD/indie-wikis-goggle
+! avatar: #005799
+! license: MIT
+{{#each langs as |lang|}}
+
+! {{{lang.name}}}
+{{#each this.sites as |site|}}
+
+{{#with site.dest as |dest|}}
+! {{{dest.name}}}
+{{{dest.path}}}$site={{{dest.site}}}
+{{/with}}
+{{#each origins as |origin|}}
+{{{origin.path}}}$site={{{origin.site}}},discard
+{{/each}}
+{{/each}}
+{{/each}}

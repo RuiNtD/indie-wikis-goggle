@@ -1,0 +1,21 @@
+{
+  "name": "indie-wiki-goggle",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "start": "bun run src/build.ts"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "@tsconfig/bun": "^1.0.9",
+    "handlebars": "^4.7.8",
+    "p-map": "^7.0.3",
+    "zod": "^4.1.12"
+  },
+  "devDependencies": {
+    "@types/bun": "^1.3.0",
+    "prettier": "^3.6.2"
+  }
+}

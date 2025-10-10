@@ -1,13 +1,18 @@
-import $ from "@david/dax";
 import { iwbBase, iwbVersion } from "./const.ts";
 import * as z from "zod";
 import pMap from "p-map";
 import Handlebars from "handlebars";
 
-import goggleTemp from "./goggle.handlebars" with { type: "text" };
-import strictTemp from "./strict.handlebars" with { type: "text" };
-const goggleTemplate = Handlebars.compile(goggleTemp);
-const strictTemplate = Handlebars.compile(strictTemp);
+const goggleTemp = Handlebars.compile(
+  await Bun.file(
+    Bun.resolveSync("./goggle.handlebars", import.meta.dir),
+  ).text(),
+);
+const strictTemp = Handlebars.compile(
+  await Bun.file(
+    Bun.resolveSync("./strict.handlebars", import.meta.dir),
+  ).text(),
+);
 
 const Site = z.object({
   origins_label: z.string(),
@@ -17,19 +22,20 @@ const Site = z.object({
 });
 const Sites = z.array(Site);
 async function getSites(lang: string) {
-  return Sites.parse(
-    await $.request(`${iwbBase}/data/sites${lang}.json`).json(),
-  );
+  const resp = await fetch(`${iwbBase}/data/sites${lang}.json`);
+  return Sites.parse(await resp.json());
 }
 
 const LocaleMessages = z.record(z.string(), z.object({ message: z.string() }));
 async function getLangs() {
-  const messages = LocaleMessages.parse(
-    await $.request(`${iwbBase}/_locales/en/messages.json`).json(),
-  );
+  const resp = await fetch(`${iwbBase}/_locales/en/messages.json`);
+  const messages = LocaleMessages.parse(await resp.json());
   return Object.entries(messages)
     .filter(([k]) => k.startsWith("settingsLang") && k != "settingsLangAll")
-    .map(([k, v]) => [k.replace("settingsLang", ""), v.message]);
+    .map(([k, v]): [string, string] => [
+      k.replace("settingsLang", ""),
+      v.message,
+    ]);
 }
 
 function parseBaseUrl(base: string) {
@@ -54,5 +60,5 @@ const data = {
   })),
 };
 
-await $.path("out/indie_wikis.goggles").writeText(goggleTemplate(data));
-await $.path("out/indie_wikis_strict.goggles").writeText(strictTemplate(data));
+await Bun.write("out/indie_wikis.goggles", goggleTemp(data));
+await Bun.write("out/strict.goggles", strictTemp(data));
